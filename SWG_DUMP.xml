@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<SWG_Resource_Dump xmlns="generated at: Tue, 10 Aug 2021 18:24:18">
+<SWG_Resource_Dump xmlns="generated at: Tue, 10 Aug 2021 19:24:19">
 <resource>
 <name>Urfatha</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Domesticated Milk</resource_class>
 <stats>
 <DR>990</DR>
@@ -16,7 +16,7 @@
 </resource>
 <resource>
 <name>Ofewheaw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Domesticated Milk</resource_class>
 <stats>
 <DR>759</DR>
@@ -30,7 +30,7 @@
 </resource>
 <resource>
 <name>Ceudwigepeu</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Domesticated Milk</resource_class>
 <stats>
 <DR>163</DR>
@@ -44,7 +44,7 @@
 </resource>
 <resource>
 <name>Afeba</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Domesticated Milk</resource_class>
 <stats>
 <DR>348</DR>
@@ -58,7 +58,7 @@
 </resource>
 <resource>
 <name>Liro</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Domesticated Milk</resource_class>
 <stats>
 <DR>970</DR>
@@ -72,7 +72,7 @@
 </resource>
 <resource>
 <name>Vikkat</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Domesticated Milk</resource_class>
 <stats>
 <DR>33</DR>
@@ -86,7 +86,7 @@
 </resource>
 <resource>
 <name>Sanes</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Domesticated Milk</resource_class>
 <stats>
 <DR>77</DR>
@@ -100,7 +100,7 @@
 </resource>
 <resource>
 <name>Iebic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Domesticated Milk</resource_class>
 <stats>
 <DR>720</DR>
@@ -114,7 +114,7 @@
 </resource>
 <resource>
 <name>Varoady</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Domesticated Milk</resource_class>
 <stats>
 <DR>888</DR>
@@ -128,7 +128,7 @@
 </resource>
 <resource>
 <name>Wrofa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Domesticated Milk</resource_class>
 <stats>
 <DR>796</DR>
@@ -142,7 +142,7 @@
 </resource>
 <resource>
 <name>Kheolo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Domesticated Milk</resource_class>
 <stats>
 <DR>473</DR>
@@ -156,7 +156,7 @@
 </resource>
 <resource>
 <name>Sraobiojjea</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Domesticated Milk</resource_class>
 <stats>
 <DR>270</DR>
@@ -170,7 +170,7 @@
 </resource>
 <resource>
 <name>Abowhe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Wild Milk</resource_class>
 <stats>
 <DR>577</DR>
@@ -184,7 +184,7 @@
 </resource>
 <resource>
 <name>Eme</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Wild Milk</resource_class>
 <stats>
 <DR>215</DR>
@@ -198,7 +198,7 @@
 </resource>
 <resource>
 <name>Wastoth</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Wild Milk</resource_class>
 <stats>
 <DR>890</DR>
@@ -212,7 +212,7 @@
 </resource>
 <resource>
 <name>Aigajja</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Wild Milk</resource_class>
 <stats>
 <DR>484</DR>
@@ -226,7 +226,7 @@
 </resource>
 <resource>
 <name>Verro</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Wild Milk</resource_class>
 <stats>
 <DR>440</DR>
@@ -240,7 +240,7 @@
 </resource>
 <resource>
 <name>Cozaw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Wild Milk</resource_class>
 <stats>
 <DR>310</DR>
@@ -254,7 +254,7 @@
 </resource>
 <resource>
 <name>Ablio</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Wild Milk</resource_class>
 <stats>
 <DR>404</DR>
@@ -268,7 +268,7 @@
 </resource>
 <resource>
 <name>Oubalod</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Wild Milk</resource_class>
 <stats>
 <DR>817</DR>
@@ -282,7 +282,7 @@
 </resource>
 <resource>
 <name>Neho</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Wild Milk</resource_class>
 <stats>
 <DR>157</DR>
@@ -296,7 +296,7 @@
 </resource>
 <resource>
 <name>Ago</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Wild Milk</resource_class>
 <stats>
 <DR>801</DR>
@@ -310,7 +310,7 @@
 </resource>
 <resource>
 <name>Astit</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Wild Milk</resource_class>
 <stats>
 <DR>637</DR>
@@ -324,7 +324,7 @@
 </resource>
 <resource>
 <name>Iha</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Wild Milk</resource_class>
 <stats>
 <DR>417</DR>
@@ -338,7 +338,7 @@
 </resource>
 <resource>
 <name>Uviefab</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Domesticated Meat</resource_class>
 <stats>
 <DR>356</DR>
@@ -352,7 +352,7 @@
 </resource>
 <resource>
 <name>Iwesma</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Domesticated Meat</resource_class>
 <stats>
 <DR>10</DR>
@@ -366,7 +366,7 @@
 </resource>
 <resource>
 <name>Redro</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Domesticated Meat</resource_class>
 <stats>
 <DR>513</DR>
@@ -380,7 +380,7 @@
 </resource>
 <resource>
 <name>Jotema</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Domesticated Meat</resource_class>
 <stats>
 <DR>149</DR>
@@ -394,7 +394,7 @@
 </resource>
 <resource>
 <name>Komeg</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Domesticated Meat</resource_class>
 <stats>
 <DR>293</DR>
@@ -408,7 +408,7 @@
 </resource>
 <resource>
 <name>Iobom</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Domesticated Meat</resource_class>
 <stats>
 <DR>689</DR>
@@ -422,7 +422,7 @@
 </resource>
 <resource>
 <name>Skoge</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Domesticated Meat</resource_class>
 <stats>
 <DR>248</DR>
@@ -436,7 +436,7 @@
 </resource>
 <resource>
 <name>Barep</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Domesticated Meat</resource_class>
 <stats>
 <DR>543</DR>
@@ -450,7 +450,7 @@
 </resource>
 <resource>
 <name>Koniarq</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Domesticated Meat</resource_class>
 <stats>
 <DR>645</DR>
@@ -464,7 +464,7 @@
 </resource>
 <resource>
 <name>Osayi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Domesticated Meat</resource_class>
 <stats>
 <DR>720</DR>
@@ -478,7 +478,7 @@
 </resource>
 <resource>
 <name>Efado</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Domesticated Meat</resource_class>
 <stats>
 <DR>64</DR>
@@ -492,7 +492,7 @@
 </resource>
 <resource>
 <name>Ahoespeo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Domesticated Meat</resource_class>
 <stats>
 <DR>274</DR>
@@ -506,7 +506,7 @@
 </resource>
 <resource>
 <name>Tafi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Wild Meat</resource_class>
 <stats>
 <DR>42</DR>
@@ -520,7 +520,7 @@
 </resource>
 <resource>
 <name>Maodri</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Wild Meat</resource_class>
 <stats>
 <DR>422</DR>
@@ -534,7 +534,7 @@
 </resource>
 <resource>
 <name>Ofonog</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Wild Meat</resource_class>
 <stats>
 <DR>530</DR>
@@ -548,7 +548,7 @@
 </resource>
 <resource>
 <name>Icelphi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Wild Meat</resource_class>
 <stats>
 <DR>277</DR>
@@ -562,7 +562,7 @@
 </resource>
 <resource>
 <name>Obi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Wild Meat</resource_class>
 <stats>
 <DR>150</DR>
@@ -576,7 +576,7 @@
 </resource>
 <resource>
 <name>Eropiri</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Wild Meat</resource_class>
 <stats>
 <DR>366</DR>
@@ -590,7 +590,7 @@
 </resource>
 <resource>
 <name>Ispyo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Wild Meat</resource_class>
 <stats>
 <DR>124</DR>
@@ -604,7 +604,7 @@
 </resource>
 <resource>
 <name>Osoosp</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Wild Meat</resource_class>
 <stats>
 <DR>551</DR>
@@ -618,7 +618,7 @@
 </resource>
 <resource>
 <name>Avovv</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Wild Meat</resource_class>
 <stats>
 <DR>894</DR>
@@ -632,7 +632,7 @@
 </resource>
 <resource>
 <name>Efa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Wild Meat</resource_class>
 <stats>
 <DR>171</DR>
@@ -646,7 +646,7 @@
 </resource>
 <resource>
 <name>Leubasto</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Wild Meat</resource_class>
 <stats>
 <DR>489</DR>
@@ -660,7 +660,7 @@
 </resource>
 <resource>
 <name>Warkaled</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Wild Meat</resource_class>
 <stats>
 <DR>961</DR>
@@ -674,7 +674,7 @@
 </resource>
 <resource>
 <name>Vabi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Herbivore Meat</resource_class>
 <stats>
 <DR>825</DR>
@@ -688,7 +688,7 @@
 </resource>
 <resource>
 <name>Eslee</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Herbivore Meat</resource_class>
 <stats>
 <DR>67</DR>
@@ -702,7 +702,7 @@
 </resource>
 <resource>
 <name>Quiswi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Herbivore Meat</resource_class>
 <stats>
 <DR>70</DR>
@@ -716,7 +716,7 @@
 </resource>
 <resource>
 <name>Ovu</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Herbivore Meat</resource_class>
 <stats>
 <DR>224</DR>
@@ -730,7 +730,7 @@
 </resource>
 <resource>
 <name>Risea</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Herbivore Meat</resource_class>
 <stats>
 <DR>953</DR>
@@ -744,7 +744,7 @@
 </resource>
 <resource>
 <name>Aweche</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Herbivore Meat</resource_class>
 <stats>
 <DR>551</DR>
@@ -758,7 +758,7 @@
 </resource>
 <resource>
 <name>Drose</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Herbivore Meat</resource_class>
 <stats>
 <DR>886</DR>
@@ -772,7 +772,7 @@
 </resource>
 <resource>
 <name>Icar</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Herbivore Meat</resource_class>
 <stats>
 <DR>516</DR>
@@ -786,7 +786,7 @@
 </resource>
 <resource>
 <name>Wiwo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Herbivore Meat</resource_class>
 <stats>
 <DR>653</DR>
@@ -800,7 +800,7 @@
 </resource>
 <resource>
 <name>Bowamo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Herbivore Meat</resource_class>
 <stats>
 <DR>595</DR>
@@ -814,7 +814,7 @@
 </resource>
 <resource>
 <name>Branaemeu</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Herbivore Meat</resource_class>
 <stats>
 <DR>980</DR>
@@ -828,7 +828,7 @@
 </resource>
 <resource>
 <name>Lokifilke</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Herbivore Meat</resource_class>
 <stats>
 <DR>214</DR>
@@ -842,7 +842,7 @@
 </resource>
 <resource>
 <name>Koigle</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Carnivore Meat</resource_class>
 <stats>
 <DR>440</DR>
@@ -856,7 +856,7 @@
 </resource>
 <resource>
 <name>Wokird</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Carnivore Meat</resource_class>
 <stats>
 <DR>849</DR>
@@ -870,7 +870,7 @@
 </resource>
 <resource>
 <name>Ikowwoi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Carnivore Meat</resource_class>
 <stats>
 <DR>85</DR>
@@ -884,7 +884,7 @@
 </resource>
 <resource>
 <name>Eupog</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Carnivore Meat</resource_class>
 <stats>
 <DR>303</DR>
@@ -898,7 +898,7 @@
 </resource>
 <resource>
 <name>Whate</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Carnivore Meat</resource_class>
 <stats>
 <DR>62</DR>
@@ -912,7 +912,7 @@
 </resource>
 <resource>
 <name>Iobepo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Carnivore Meat</resource_class>
 <stats>
 <DR>1000</DR>
@@ -926,7 +926,7 @@
 </resource>
 <resource>
 <name>Alfet</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Carnivore Meat</resource_class>
 <stats>
 <DR>863</DR>
@@ -940,7 +940,7 @@
 </resource>
 <resource>
 <name>Brosra</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Carnivore Meat</resource_class>
 <stats>
 <DR>527</DR>
@@ -954,7 +954,7 @@
 </resource>
 <resource>
 <name>Isre</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Carnivore Meat</resource_class>
 <stats>
 <DR>681</DR>
@@ -968,7 +968,7 @@
 </resource>
 <resource>
 <name>Orckeurir</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Carnivore Meat</resource_class>
 <stats>
 <DR>19</DR>
@@ -982,7 +982,7 @@
 </resource>
 <resource>
 <name>Ale</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Carnivore Meat</resource_class>
 <stats>
 <DR>893</DR>
@@ -996,7 +996,7 @@
 </resource>
 <resource>
 <name>Ehek</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Carnivore Meat</resource_class>
 <stats>
 <DR>301</DR>
@@ -1010,7 +1010,7 @@
 </resource>
 <resource>
 <name>Skipe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Reptilian Meat</resource_class>
 <stats>
 <DR>662</DR>
@@ -1024,7 +1024,7 @@
 </resource>
 <resource>
 <name>Sisneswe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Reptilian Meat</resource_class>
 <stats>
 <DR>822</DR>
@@ -1038,7 +1038,7 @@
 </resource>
 <resource>
 <name>Ube</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Reptilian Meat</resource_class>
 <stats>
 <DR>346</DR>
@@ -1052,7 +1052,7 @@
 </resource>
 <resource>
 <name>Esta</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Reptilian Meat</resource_class>
 <stats>
 <DR>55</DR>
@@ -1066,7 +1066,7 @@
 </resource>
 <resource>
 <name>Onismoteh</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Reptilian Meat</resource_class>
 <stats>
 <DR>47</DR>
@@ -1080,7 +1080,7 @@
 </resource>
 <resource>
 <name>Moteerk</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Reptilian Meat</resource_class>
 <stats>
 <DR>444</DR>
@@ -1094,7 +1094,7 @@
 </resource>
 <resource>
 <name>Fela</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Reptilian Meat</resource_class>
 <stats>
 <DR>96</DR>
@@ -1108,7 +1108,7 @@
 </resource>
 <resource>
 <name>Afag</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Reptilian Meat</resource_class>
 <stats>
 <DR>326</DR>
@@ -1122,7 +1122,7 @@
 </resource>
 <resource>
 <name>Ohilecid</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Reptilian Meat</resource_class>
 <stats>
 <DR>920</DR>
@@ -1136,7 +1136,7 @@
 </resource>
 <resource>
 <name>Kemi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Reptilian Meat</resource_class>
 <stats>
 <DR>696</DR>
@@ -1150,7 +1150,7 @@
 </resource>
 <resource>
 <name>Tepy</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Reptilian Meat</resource_class>
 <stats>
 <DR>646</DR>
@@ -1164,7 +1164,7 @@
 </resource>
 <resource>
 <name>Riko</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Reptilian Meat</resource_class>
 <stats>
 <DR>164</DR>
@@ -1178,7 +1178,7 @@
 </resource>
 <resource>
 <name>Cahugiar</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Avian Meat</resource_class>
 <stats>
 <DR>742</DR>
@@ -1192,7 +1192,7 @@
 </resource>
 <resource>
 <name>Obei</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Avian Meat</resource_class>
 <stats>
 <DR>193</DR>
@@ -1206,7 +1206,7 @@
 </resource>
 <resource>
 <name>Itteno</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Avian Meat</resource_class>
 <stats>
 <DR>686</DR>
@@ -1220,7 +1220,7 @@
 </resource>
 <resource>
 <name>Achroumo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Avian Meat</resource_class>
 <stats>
 <DR>302</DR>
@@ -1234,7 +1234,7 @@
 </resource>
 <resource>
 <name>Flerdoov</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Avian Meat</resource_class>
 <stats>
 <DR>750</DR>
@@ -1248,7 +1248,7 @@
 </resource>
 <resource>
 <name>Aga</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Avian Meat</resource_class>
 <stats>
 <DR>218</DR>
@@ -1262,7 +1262,7 @@
 </resource>
 <resource>
 <name>Wibo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Avian Meat</resource_class>
 <stats>
 <DR>906</DR>
@@ -1276,7 +1276,7 @@
 </resource>
 <resource>
 <name>Iwrine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Avian Meat</resource_class>
 <stats>
 <DR>21</DR>
@@ -1290,7 +1290,7 @@
 </resource>
 <resource>
 <name>Xefis</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Avian Meat</resource_class>
 <stats>
 <DR>574</DR>
@@ -1304,7 +1304,7 @@
 </resource>
 <resource>
 <name>Rilou</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Avian Meat</resource_class>
 <stats>
 <DR>833</DR>
@@ -1318,7 +1318,7 @@
 </resource>
 <resource>
 <name>Oroop</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Avian Meat</resource_class>
 <stats>
 <DR>86</DR>
@@ -1332,7 +1332,7 @@
 </resource>
 <resource>
 <name>Gitaw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Avian Meat</resource_class>
 <stats>
 <DR>943</DR>
@@ -1346,7 +1346,7 @@
 </resource>
 <resource>
 <name>Phenost</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Egg</resource_class>
 <stats>
 <DR>446</DR>
@@ -1360,7 +1360,7 @@
 </resource>
 <resource>
 <name>Iroo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Egg</resource_class>
 <stats>
 <DR>963</DR>
@@ -1374,7 +1374,7 @@
 </resource>
 <resource>
 <name>Akadwe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Egg</resource_class>
 <stats>
 <DR>984</DR>
@@ -1388,7 +1388,7 @@
 </resource>
 <resource>
 <name>Owogaf</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Egg</resource_class>
 <stats>
 <DR>986</DR>
@@ -1402,7 +1402,7 @@
 </resource>
 <resource>
 <name>Eteki</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Egg</resource_class>
 <stats>
 <DR>658</DR>
@@ -1416,7 +1416,7 @@
 </resource>
 <resource>
 <name>Iepeawo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Egg</resource_class>
 <stats>
 <DR>837</DR>
@@ -1430,7 +1430,7 @@
 </resource>
 <resource>
 <name>Eno</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Egg</resource_class>
 <stats>
 <DR>595</DR>
@@ -1444,7 +1444,7 @@
 </resource>
 <resource>
 <name>Apipake</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Egg</resource_class>
 <stats>
 <DR>392</DR>
@@ -1458,7 +1458,7 @@
 </resource>
 <resource>
 <name>Isibaho</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Egg</resource_class>
 <stats>
 <DR>932</DR>
@@ -1472,7 +1472,7 @@
 </resource>
 <resource>
 <name>Okronoha</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Egg</resource_class>
 <stats>
 <DR>663</DR>
@@ -1486,7 +1486,7 @@
 </resource>
 <resource>
 <name>Eceuc</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Egg</resource_class>
 <stats>
 <DR>583</DR>
@@ -1500,7 +1500,7 @@
 </resource>
 <resource>
 <name>Akea</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Egg</resource_class>
 <stats>
 <DR>724</DR>
@@ -1514,7 +1514,7 @@
 </resource>
 <resource>
 <name>Doraf</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Insect Meat</resource_class>
 <stats>
 <DR>296</DR>
@@ -1528,7 +1528,7 @@
 </resource>
 <resource>
 <name>Israshi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Insect Meat</resource_class>
 <stats>
 <DR>200</DR>
@@ -1542,7 +1542,7 @@
 </resource>
 <resource>
 <name>Eanoeponi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Insect Meat</resource_class>
 <stats>
 <DR>72</DR>
@@ -1556,7 +1556,7 @@
 </resource>
 <resource>
 <name>Toeschlod</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Insect Meat</resource_class>
 <stats>
 <DR>695</DR>
@@ -1570,7 +1570,7 @@
 </resource>
 <resource>
 <name>Oulac</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Insect Meat</resource_class>
 <stats>
 <DR>42</DR>
@@ -1584,7 +1584,7 @@
 </resource>
 <resource>
 <name>Nore</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Insect Meat</resource_class>
 <stats>
 <DR>864</DR>
@@ -1598,7 +1598,7 @@
 </resource>
 <resource>
 <name>Aecitago</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Insect Meat</resource_class>
 <stats>
 <DR>578</DR>
@@ -1612,7 +1612,7 @@
 </resource>
 <resource>
 <name>Sobe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Insect Meat</resource_class>
 <stats>
 <DR>933</DR>
@@ -1626,7 +1626,7 @@
 </resource>
 <resource>
 <name>Kiba</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Insect Meat</resource_class>
 <stats>
 <DR>963</DR>
@@ -1640,7 +1640,7 @@
 </resource>
 <resource>
 <name>Efeepess</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Insect Meat</resource_class>
 <stats>
 <DR>479</DR>
@@ -1654,7 +1654,7 @@
 </resource>
 <resource>
 <name>Ofidef</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Insect Meat</resource_class>
 <stats>
 <DR>371</DR>
@@ -1668,7 +1668,7 @@
 </resource>
 <resource>
 <name>Talett</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Insect Meat</resource_class>
 <stats>
 <DR>435</DR>
@@ -1682,7 +1682,7 @@
 </resource>
 <resource>
 <name>Ottibleg</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Fish Meat</resource_class>
 <stats>
 <DR>686</DR>
@@ -1696,7 +1696,7 @@
 </resource>
 <resource>
 <name>Verckib</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Fish Meat</resource_class>
 <stats>
 <DR>124</DR>
@@ -1710,7 +1710,7 @@
 </resource>
 <resource>
 <name>Ithath</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Fish Meat</resource_class>
 <stats>
 <DR>545</DR>
@@ -1724,7 +1724,7 @@
 </resource>
 <resource>
 <name>Idepaco</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Fish Meat</resource_class>
 <stats>
 <DR>524</DR>
@@ -1738,7 +1738,7 @@
 </resource>
 <resource>
 <name>Snostoe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Fish Meat</resource_class>
 <stats>
 <DR>532</DR>
@@ -1752,7 +1752,7 @@
 </resource>
 <resource>
 <name>Givothad</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Fish Meat</resource_class>
 <stats>
 <DR>201</DR>
@@ -1766,7 +1766,7 @@
 </resource>
 <resource>
 <name>Katibe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Fish Meat</resource_class>
 <stats>
 <DR>863</DR>
@@ -1780,7 +1780,7 @@
 </resource>
 <resource>
 <name>Acin</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Fish Meat</resource_class>
 <stats>
 <DR>317</DR>
@@ -1794,7 +1794,7 @@
 </resource>
 <resource>
 <name>Outwaisp</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Fish Meat</resource_class>
 <stats>
 <DR>588</DR>
@@ -1808,7 +1808,7 @@
 </resource>
 <resource>
 <name>Opou</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Vegetable Greens</resource_class>
 <stats>
 <DR>243</DR>
@@ -1822,7 +1822,7 @@
 </resource>
 <resource>
 <name>Skeenalic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Vegetable Greens</resource_class>
 <stats>
 <DR>736</DR>
@@ -1836,7 +1836,7 @@
 </resource>
 <resource>
 <name>Sohevy</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Vegetable Beans</resource_class>
 <stats>
 <DR>179</DR>
@@ -1850,7 +1850,7 @@
 </resource>
 <resource>
 <name>Oso</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Vegetable Beans</resource_class>
 <stats>
 <DR>484</DR>
@@ -1864,7 +1864,7 @@
 </resource>
 <resource>
 <name>Ihite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Vegetable Beans</resource_class>
 <stats>
 <DR>347</DR>
@@ -1878,7 +1878,7 @@
 </resource>
 <resource>
 <name>Eneohi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Vegetable Beans</resource_class>
 <stats>
 <DR>896</DR>
@@ -1892,7 +1892,7 @@
 </resource>
 <resource>
 <name>Attirkocae</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Vegetable Beans</resource_class>
 <stats>
 <DR>710</DR>
@@ -1906,7 +1906,7 @@
 </resource>
 <resource>
 <name>Ivo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Vegetable Beans</resource_class>
 <stats>
 <DR>378</DR>
@@ -1920,7 +1920,7 @@
 </resource>
 <resource>
 <name>Geka</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Vegetable Beans</resource_class>
 <stats>
 <DR>18</DR>
@@ -1934,7 +1934,7 @@
 </resource>
 <resource>
 <name>Viveavem</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Vegetable Beans</resource_class>
 <stats>
 <DR>893</DR>
@@ -1948,7 +1948,7 @@
 </resource>
 <resource>
 <name>Nasem</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Vegetable Beans</resource_class>
 <stats>
 <DR>291</DR>
@@ -1962,7 +1962,7 @@
 </resource>
 <resource>
 <name>Ibov</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Vegetable Beans</resource_class>
 <stats>
 <DR>914</DR>
@@ -1976,7 +1976,7 @@
 </resource>
 <resource>
 <name>Kore</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Vegetable Beans</resource_class>
 <stats>
 <DR>421</DR>
@@ -1990,7 +1990,7 @@
 </resource>
 <resource>
 <name>Elditch</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Vegetable Beans</resource_class>
 <stats>
 <DR>729</DR>
@@ -2004,7 +2004,7 @@
 </resource>
 <resource>
 <name>Ekrodee</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Vegetable Tubers</resource_class>
 <stats>
 <DR>284</DR>
@@ -2018,7 +2018,7 @@
 </resource>
 <resource>
 <name>Nigiwou</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Vegetable Tubers</resource_class>
 <stats>
 <DR>536</DR>
@@ -2032,7 +2032,7 @@
 </resource>
 <resource>
 <name>Deusee</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Vegetable Tubers</resource_class>
 <stats>
 <DR>212</DR>
@@ -2046,7 +2046,7 @@
 </resource>
 <resource>
 <name>Ousta</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Vegetable Tubers</resource_class>
 <stats>
 <DR>874</DR>
@@ -2060,7 +2060,7 @@
 </resource>
 <resource>
 <name>Ymebosrao</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Vegetable Tubers</resource_class>
 <stats>
 <DR>943</DR>
@@ -2074,7 +2074,7 @@
 </resource>
 <resource>
 <name>Iohod</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Vegetable Tubers</resource_class>
 <stats>
 <DR>856</DR>
@@ -2088,7 +2088,7 @@
 </resource>
 <resource>
 <name>Raucae</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Vegetable Tubers</resource_class>
 <stats>
 <DR>975</DR>
@@ -2102,7 +2102,7 @@
 </resource>
 <resource>
 <name>Aerkisquok</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Vegetable Tubers</resource_class>
 <stats>
 <DR>71</DR>
@@ -2116,7 +2116,7 @@
 </resource>
 <resource>
 <name>Daga</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Vegetable Tubers</resource_class>
 <stats>
 <DR>390</DR>
@@ -2130,7 +2130,7 @@
 </resource>
 <resource>
 <name>Koyeuhao</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Vegetable Tubers</resource_class>
 <stats>
 <DR>760</DR>
@@ -2144,7 +2144,7 @@
 </resource>
 <resource>
 <name>Gycatap</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Vegetable Tubers</resource_class>
 <stats>
 <DR>45</DR>
@@ -2158,7 +2158,7 @@
 </resource>
 <resource>
 <name>Nedai</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Vegetable Tubers</resource_class>
 <stats>
 <DR>815</DR>
@@ -2172,7 +2172,7 @@
 </resource>
 <resource>
 <name>Locee</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Vegetable Fungus</resource_class>
 <stats>
 <DR>583</DR>
@@ -2186,7 +2186,7 @@
 </resource>
 <resource>
 <name>Draveu</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Vegetable Fungus</resource_class>
 <stats>
 <DR>339</DR>
@@ -2200,7 +2200,7 @@
 </resource>
 <resource>
 <name>Vasi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Vegetable Fungus</resource_class>
 <stats>
 <DR>462</DR>
@@ -2214,7 +2214,7 @@
 </resource>
 <resource>
 <name>Eataf</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Vegetable Fungus</resource_class>
 <stats>
 <DR>739</DR>
@@ -2228,7 +2228,7 @@
 </resource>
 <resource>
 <name>Owi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Vegetable Fungus</resource_class>
 <stats>
 <DR>71</DR>
@@ -2242,7 +2242,7 @@
 </resource>
 <resource>
 <name>Eke</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Vegetable Fungus</resource_class>
 <stats>
 <DR>181</DR>
@@ -2256,7 +2256,7 @@
 </resource>
 <resource>
 <name>Ihasco</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Vegetable Fungus</resource_class>
 <stats>
 <DR>182</DR>
@@ -2270,7 +2270,7 @@
 </resource>
 <resource>
 <name>Egmi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Vegetable Fungus</resource_class>
 <stats>
 <DR>377</DR>
@@ -2284,7 +2284,7 @@
 </resource>
 <resource>
 <name>Etreosaovoq</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Vegetable Fungus</resource_class>
 <stats>
 <DR>233</DR>
@@ -2298,7 +2298,7 @@
 </resource>
 <resource>
 <name>Spebo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Vegetable Fungus</resource_class>
 <stats>
 <DR>98</DR>
@@ -2312,7 +2312,7 @@
 </resource>
 <resource>
 <name>Iheudri</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Vegetable Fungus</resource_class>
 <stats>
 <DR>567</DR>
@@ -2326,7 +2326,7 @@
 </resource>
 <resource>
 <name>Nabow</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Vegetable Fungus</resource_class>
 <stats>
 <DR>750</DR>
@@ -2340,7 +2340,7 @@
 </resource>
 <resource>
 <name>Ekasni</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Fruit</resource_class>
 <stats>
 <DR>348</DR>
@@ -2354,7 +2354,7 @@
 </resource>
 <resource>
 <name>Aceowe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Fruit</resource_class>
 <stats>
 <DR>888</DR>
@@ -2368,7 +2368,7 @@
 </resource>
 <resource>
 <name>Daris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Fruit</resource_class>
 <stats>
 <DR>565</DR>
@@ -2382,7 +2382,7 @@
 </resource>
 <resource>
 <name>Ipeano</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Fruit</resource_class>
 <stats>
 <DR>542</DR>
@@ -2396,7 +2396,7 @@
 </resource>
 <resource>
 <name>Sienolc</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Fruit</resource_class>
 <stats>
 <DR>595</DR>
@@ -2410,7 +2410,7 @@
 </resource>
 <resource>
 <name>Eedae</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Fruit</resource_class>
 <stats>
 <DR>394</DR>
@@ -2424,7 +2424,7 @@
 </resource>
 <resource>
 <name>Irar</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rorian Fruit</resource_class>
 <stats>
 <DR>738</DR>
@@ -2438,7 +2438,7 @@
 </resource>
 <resource>
 <name>Emaw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Fish Meat</resource_class>
 <stats>
 <DR>632</DR>
@@ -2452,7 +2452,7 @@
 </resource>
 <resource>
 <name>Iwo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Fish Meat</resource_class>
 <stats>
 <DR>563</DR>
@@ -2466,7 +2466,7 @@
 </resource>
 <resource>
 <name>Srovic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Fish Meat</resource_class>
 <stats>
 <DR>649</DR>
@@ -2480,7 +2480,7 @@
 </resource>
 <resource>
 <name>Axigao</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Crustacean Meat</resource_class>
 <stats>
 <DR>785</DR>
@@ -2494,7 +2494,7 @@
 </resource>
 <resource>
 <name>Hori</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Crustacean Meat</resource_class>
 <stats>
 <DR>962</DR>
@@ -2508,7 +2508,7 @@
 </resource>
 <resource>
 <name>Soespiceu</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Crustacean Meat</resource_class>
 <stats>
 <DR>485</DR>
@@ -2522,7 +2522,7 @@
 </resource>
 <resource>
 <name>Ohyste</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Crustancean Meat</resource_class>
 <stats>
 <DR>255</DR>
@@ -2536,7 +2536,7 @@
 </resource>
 <resource>
 <name>Alkarati</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Crustacean Meat</resource_class>
 <stats>
 <DR>136</DR>
@@ -2550,7 +2550,7 @@
 </resource>
 <resource>
 <name>Ichreeb</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Crustacean Meat</resource_class>
 <stats>
 <DR>573</DR>
@@ -2564,7 +2564,7 @@
 </resource>
 <resource>
 <name>Siaskoka</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Crustacean Meat</resource_class>
 <stats>
 <DR>647</DR>
@@ -2578,7 +2578,7 @@
 </resource>
 <resource>
 <name>Hosou</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Crustacean Meat</resource_class>
 <stats>
 <DR>434</DR>
@@ -2592,7 +2592,7 @@
 </resource>
 <resource>
 <name>Eekow</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Crustacean Meat</resource_class>
 <stats>
 <DR>780</DR>
@@ -2606,7 +2606,7 @@
 </resource>
 <resource>
 <name>Istawi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Crustacean Meat</resource_class>
 <stats>
 <DR>797</DR>
@@ -2620,7 +2620,7 @@
 </resource>
 <resource>
 <name>Aneib</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Crustacean Meat</resource_class>
 <stats>
 <DR>77</DR>
@@ -2634,7 +2634,7 @@
 </resource>
 <resource>
 <name>Eica</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Crustacean Meat</resource_class>
 <stats>
 <DR>367</DR>
@@ -2648,7 +2648,7 @@
 </resource>
 <resource>
 <name>Oerevo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Mollusk Meat</resource_class>
 <stats>
 <DR>505</DR>
@@ -2662,7 +2662,7 @@
 </resource>
 <resource>
 <name>Gotern</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Mollusk Meat</resource_class>
 <stats>
 <DR>401</DR>
@@ -2676,7 +2676,7 @@
 </resource>
 <resource>
 <name>Oni</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Mollusk Meat</resource_class>
 <stats>
 <DR>27</DR>
@@ -2690,7 +2690,7 @@
 </resource>
 <resource>
 <name>Elkiwisna</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Mollusk Meat</resource_class>
 <stats>
 <DR>365</DR>
@@ -2704,7 +2704,7 @@
 </resource>
 <resource>
 <name>Lipa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Mollusk Meat</resource_class>
 <stats>
 <DR>140</DR>
@@ -2718,7 +2718,7 @@
 </resource>
 <resource>
 <name>Icharr</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Mollusk Meat</resource_class>
 <stats>
 <DR>844</DR>
@@ -2732,7 +2732,7 @@
 </resource>
 <resource>
 <name>Febiwoo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Mollusk Meat</resource_class>
 <stats>
 <DR>316</DR>
@@ -2746,7 +2746,7 @@
 </resource>
 <resource>
 <name>Kela</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Mollusk Meat</resource_class>
 <stats>
 <DR>496</DR>
@@ -2760,7 +2760,7 @@
 </resource>
 <resource>
 <name>Emesve</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Mollusk Meat</resource_class>
 <stats>
 <DR>524</DR>
@@ -2774,7 +2774,7 @@
 </resource>
 <resource>
 <name>Theno</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Mollusk Meat</resource_class>
 <stats>
 <DR>20</DR>
@@ -2788,7 +2788,7 @@
 </resource>
 <resource>
 <name>Whoustoth</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Mollusk Meat</resource_class>
 <stats>
 <DR>643</DR>
@@ -2802,7 +2802,7 @@
 </resource>
 <resource>
 <name>Snovo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Mollusk Meat</resource_class>
 <stats>
 <DR>771</DR>
@@ -2816,7 +2816,7 @@
 </resource>
 <resource>
 <name>Atrecrafe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Animal Bones</resource_class>
 <stats>
 <DR>423</DR>
@@ -2831,7 +2831,7 @@
 </resource>
 <resource>
 <name>Ekeri</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooinian Animal Bones</resource_class>
 <stats>
 <DR>685</DR>
@@ -2846,7 +2846,7 @@
 </resource>
 <resource>
 <name>Brisoboe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Animal Bones</resource_class>
 <stats>
 <DR>982</DR>
@@ -2861,7 +2861,7 @@
 </resource>
 <resource>
 <name>Seusa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Animal Bones</resource_class>
 <stats>
 <DR>566</DR>
@@ -2876,7 +2876,7 @@
 </resource>
 <resource>
 <name>Acaho</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Animal Bones</resource_class>
 <stats>
 <DR>482</DR>
@@ -2891,7 +2891,7 @@
 </resource>
 <resource>
 <name>Ivostew</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Animal Bones</resource_class>
 <stats>
 <DR>819</DR>
@@ -2906,7 +2906,7 @@
 </resource>
 <resource>
 <name>Iosam</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Animal Bones</resource_class>
 <stats>
 <DR>314</DR>
@@ -2921,7 +2921,7 @@
 </resource>
 <resource>
 <name>Naigi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Animal Bones</resource_class>
 <stats>
 <DR>982</DR>
@@ -2936,7 +2936,7 @@
 </resource>
 <resource>
 <name>Pacrelph</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Animal Bones</resource_class>
 <stats>
 <DR>369</DR>
@@ -2951,7 +2951,7 @@
 </resource>
 <resource>
 <name>Atib</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Animal Bones</resource_class>
 <stats>
 <DR>354</DR>
@@ -2966,7 +2966,7 @@
 </resource>
 <resource>
 <name>Otoem</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Animal Bones</resource_class>
 <stats>
 <DR>689</DR>
@@ -2981,7 +2981,7 @@
 </resource>
 <resource>
 <name>Gono</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Animal Bones</resource_class>
 <stats>
 <DR>436</DR>
@@ -2996,7 +2996,7 @@
 </resource>
 <resource>
 <name>Neebovev</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Avian Bones</resource_class>
 <stats>
 <DR>176</DR>
@@ -3011,7 +3011,7 @@
 </resource>
 <resource>
 <name>Ilyf</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Avian Bones</resource_class>
 <stats>
 <DR>599</DR>
@@ -3026,7 +3026,7 @@
 </resource>
 <resource>
 <name>Cheme</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Avian Bones</resource_class>
 <stats>
 <DR>213</DR>
@@ -3041,7 +3041,7 @@
 </resource>
 <resource>
 <name>Ovectoowy</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Avian Bones</resource_class>
 <stats>
 <DR>441</DR>
@@ -3056,7 +3056,7 @@
 </resource>
 <resource>
 <name>Sioptacita</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Avian Bones</resource_class>
 <stats>
 <DR>517</DR>
@@ -3071,7 +3071,7 @@
 </resource>
 <resource>
 <name>Enac</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Avian Bones</resource_class>
 <stats>
 <DR>566</DR>
@@ -3086,7 +3086,7 @@
 </resource>
 <resource>
 <name>Idah</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Avian Bones</resource_class>
 <stats>
 <DR>130</DR>
@@ -3101,7 +3101,7 @@
 </resource>
 <resource>
 <name>Othih</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Avian Bones</resource_class>
 <stats>
 <DR>34</DR>
@@ -3116,7 +3116,7 @@
 </resource>
 <resource>
 <name>Era</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatoonian Avian Bones</resource_class>
 <stats>
 <DR>346</DR>
@@ -3131,7 +3131,7 @@
 </resource>
 <resource>
 <name>Dadao</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Avian Bones</resource_class>
 <stats>
 <DR>305</DR>
@@ -3146,7 +3146,7 @@
 </resource>
 <resource>
 <name>Opia</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Avian Bones</resource_class>
 <stats>
 <DR>521</DR>
@@ -3161,7 +3161,7 @@
 </resource>
 <resource>
 <name>Iskedao</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Avian Bones</resource_class>
 <stats>
 <DR>258</DR>
@@ -3176,7 +3176,7 @@
 </resource>
 <resource>
 <name>Ravokte</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Horn</resource_class>
 <stats>
 <DR>541</DR>
@@ -3191,7 +3191,7 @@
 </resource>
 <resource>
 <name>Ecote</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Horn</resource_class>
 <stats>
 <DR>399</DR>
@@ -3206,7 +3206,7 @@
 </resource>
 <resource>
 <name>Misne</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Horn</resource_class>
 <stats>
 <DR>425</DR>
@@ -3221,7 +3221,7 @@
 </resource>
 <resource>
 <name>Akobe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Horn</resource_class>
 <stats>
 <DR>932</DR>
@@ -3236,7 +3236,7 @@
 </resource>
 <resource>
 <name>Awreriv</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Horn</resource_class>
 <stats>
 <DR>577</DR>
@@ -3251,7 +3251,7 @@
 </resource>
 <resource>
 <name>Ise</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Horn</resource_class>
 <stats>
 <DR>697</DR>
@@ -3266,7 +3266,7 @@
 </resource>
 <resource>
 <name>Rirem</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Horn</resource_class>
 <stats>
 <DR>415</DR>
@@ -3281,7 +3281,7 @@
 </resource>
 <resource>
 <name>Kheko</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Horn</resource_class>
 <stats>
 <DR>845</DR>
@@ -3296,7 +3296,7 @@
 </resource>
 <resource>
 <name>Arer</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Horn</resource_class>
 <stats>
 <DR>435</DR>
@@ -3311,7 +3311,7 @@
 </resource>
 <resource>
 <name>Umim</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Horn</resource_class>
 <stats>
 <DR>926</DR>
@@ -3326,7 +3326,7 @@
 </resource>
 <resource>
 <name>Osmaf</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Horn</resource_class>
 <stats>
 <DR>961</DR>
@@ -3341,7 +3341,7 @@
 </resource>
 <resource>
 <name>Anef</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Horn</resource_class>
 <stats>
 <DR>622</DR>
@@ -3356,7 +3356,7 @@
 </resource>
 <resource>
 <name>Aopea</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Wooly Hide</resource_class>
 <stats>
 <DR>611</DR>
@@ -3371,7 +3371,7 @@
 </resource>
 <resource>
 <name>Ifepra</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Wooly Hide</resource_class>
 <stats>
 <DR>386</DR>
@@ -3386,7 +3386,7 @@
 </resource>
 <resource>
 <name>Adef</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Wooly Hide</resource_class>
 <stats>
 <DR>699</DR>
@@ -3401,7 +3401,7 @@
 </resource>
 <resource>
 <name>Asre</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Wooly Hide</resource_class>
 <stats>
 <DR>73</DR>
@@ -3416,7 +3416,7 @@
 </resource>
 <resource>
 <name>Mivvo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Wooly Hide</resource_class>
 <stats>
 <DR>273</DR>
@@ -3431,7 +3431,7 @@
 </resource>
 <resource>
 <name>Eanoce</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Wooly Hide</resource_class>
 <stats>
 <DR>834</DR>
@@ -3446,7 +3446,7 @@
 </resource>
 <resource>
 <name>Wobo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rorian Wooly Hide</resource_class>
 <stats>
 <DR>477</DR>
@@ -3461,7 +3461,7 @@
 </resource>
 <resource>
 <name>Pokyw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Wooly Hide</resource_class>
 <stats>
 <DR>165</DR>
@@ -3476,7 +3476,7 @@
 </resource>
 <resource>
 <name>Dova</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Wooly Hide</resource_class>
 <stats>
 <DR>119</DR>
@@ -3491,7 +3491,7 @@
 </resource>
 <resource>
 <name>Giawwo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Wooly Hide</resource_class>
 <stats>
 <DR>792</DR>
@@ -3506,7 +3506,7 @@
 </resource>
 <resource>
 <name>Gofeiaceig</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Wooly Hide</resource_class>
 <stats>
 <DR>157</DR>
@@ -3521,7 +3521,7 @@
 </resource>
 <resource>
 <name>Sades</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Wooly Hide</resource_class>
 <stats>
 <DR>993</DR>
@@ -3536,7 +3536,7 @@
 </resource>
 <resource>
 <name>Greosro</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Bristley Hide</resource_class>
 <stats>
 <DR>425</DR>
@@ -3551,7 +3551,7 @@
 </resource>
 <resource>
 <name>Otez</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Bristley Hide</resource_class>
 <stats>
 <DR>131</DR>
@@ -3566,7 +3566,7 @@
 </resource>
 <resource>
 <name>Aufosh</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Bristley Hide</resource_class>
 <stats>
 <DR>717</DR>
@@ -3581,7 +3581,7 @@
 </resource>
 <resource>
 <name>Acoczo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Bristley Hide</resource_class>
 <stats>
 <DR>317</DR>
@@ -3596,7 +3596,7 @@
 </resource>
 <resource>
 <name>Ipalaw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Bristley Hidee</resource_class>
 <stats>
 <DR>614</DR>
@@ -3611,7 +3611,7 @@
 </resource>
 <resource>
 <name>Keha</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Bristley Hide</resource_class>
 <stats>
 <DR>119</DR>
@@ -3626,7 +3626,7 @@
 </resource>
 <resource>
 <name>Eunad</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Bristley Hide</resource_class>
 <stats>
 <DR>30</DR>
@@ -3641,7 +3641,7 @@
 </resource>
 <resource>
 <name>Evori</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Bristley Hide</resource_class>
 <stats>
 <DR>740</DR>
@@ -3656,7 +3656,7 @@
 </resource>
 <resource>
 <name>Epi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Bristley Hide</resource_class>
 <stats>
 <DR>504</DR>
@@ -3671,7 +3671,7 @@
 </resource>
 <resource>
 <name>Laefi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Bristley Hide</resource_class>
 <stats>
 <DR>853</DR>
@@ -3686,7 +3686,7 @@
 </resource>
 <resource>
 <name>Give</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Bristley Hide</resource_class>
 <stats>
 <DR>889</DR>
@@ -3701,7 +3701,7 @@
 </resource>
 <resource>
 <name>Oki</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Bristley Hide</resource_class>
 <stats>
 <DR>846</DR>
@@ -3716,7 +3716,7 @@
 </resource>
 <resource>
 <name>Itha</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Leathery Hide</resource_class>
 <stats>
 <DR>760</DR>
@@ -3731,7 +3731,7 @@
 </resource>
 <resource>
 <name>Bawof</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Leathery Hide</resource_class>
 <stats>
 <DR>151</DR>
@@ -3746,7 +3746,7 @@
 </resource>
 <resource>
 <name>Gehi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Leathery Hide</resource_class>
 <stats>
 <DR>128</DR>
@@ -3761,7 +3761,7 @@
 </resource>
 <resource>
 <name>Eforkoboi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Leathery Hide</resource_class>
 <stats>
 <DR>75</DR>
@@ -3776,7 +3776,7 @@
 </resource>
 <resource>
 <name>Orerfildi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Leathery Hide</resource_class>
 <stats>
 <DR>847</DR>
@@ -3791,7 +3791,7 @@
 </resource>
 <resource>
 <name>Ebeiro</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Leathery Hide</resource_class>
 <stats>
 <DR>893</DR>
@@ -3806,7 +3806,7 @@
 </resource>
 <resource>
 <name>Moda</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Leathery Hide</resource_class>
 <stats>
 <DR>847</DR>
@@ -3821,7 +3821,7 @@
 </resource>
 <resource>
 <name>Wiestighi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Leathery Hide</resource_class>
 <stats>
 <DR>544</DR>
@@ -3836,7 +3836,7 @@
 </resource>
 <resource>
 <name>Aiviaho</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Leathery Hide</resource_class>
 <stats>
 <DR>473</DR>
@@ -3851,7 +3851,7 @@
 </resource>
 <resource>
 <name>Vedwilk</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Leathery Hide</resource_class>
 <stats>
 <DR>670</DR>
@@ -3866,7 +3866,7 @@
 </resource>
 <resource>
 <name>Crarkiolc</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Leathery Hide</resource_class>
 <stats>
 <DR>411</DR>
@@ -3881,7 +3881,7 @@
 </resource>
 <resource>
 <name>Iabribe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Leathery Hide</resource_class>
 <stats>
 <DR>281</DR>
@@ -3896,7 +3896,7 @@
 </resource>
 <resource>
 <name>Svekaurlach</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Scaley Hide</resource_class>
 <stats>
 <DR>719</DR>
@@ -3911,7 +3911,7 @@
 </resource>
 <resource>
 <name>Efeba</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Scaley Hide</resource_class>
 <stats>
 <DR>705</DR>
@@ -3926,7 +3926,7 @@
 </resource>
 <resource>
 <name>Rodean</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Scaley Hide</resource_class>
 <stats>
 <DR>377</DR>
@@ -3941,7 +3941,7 @@
 </resource>
 <resource>
 <name>Mefo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Scaley Hide</resource_class>
 <stats>
 <DR>709</DR>
@@ -3956,7 +3956,7 @@
 </resource>
 <resource>
 <name>Astof</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Scaley Hide</resource_class>
 <stats>
 <DR>434</DR>
@@ -3971,7 +3971,7 @@
 </resource>
 <resource>
 <name>Axit</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Scaley Hide</resource_class>
 <stats>
 <DR>336</DR>
@@ -3986,7 +3986,7 @@
 </resource>
 <resource>
 <name>Esah</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Scaley Hide</resource_class>
 <stats>
 <DR>27</DR>
@@ -4001,7 +4001,7 @@
 </resource>
 <resource>
 <name>Aiefiw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Scaley Hide</resource_class>
 <stats>
 <DR>358</DR>
@@ -4016,7 +4016,7 @@
 </resource>
 <resource>
 <name>Osa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Scaley Hide</resource_class>
 <stats>
 <DR>830</DR>
@@ -4031,7 +4031,7 @@
 </resource>
 <resource>
 <name>Praceki</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Scaley Hide</resource_class>
 <stats>
 <DR>711</DR>
@@ -4046,7 +4046,7 @@
 </resource>
 <resource>
 <name>Efla</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Scaley Hide</resource_class>
 <stats>
 <DR>752</DR>
@@ -4061,7 +4061,7 @@
 </resource>
 <resource>
 <name>Givoi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Scaley Hide</resource_class>
 <stats>
 <DR>618</DR>
@@ -4076,7 +4076,7 @@
 </resource>
 <resource>
 <name>Vagi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Domesticated Corn</resource_class>
 <stats>
 <DR>146</DR>
@@ -4090,7 +4090,7 @@
 </resource>
 <resource>
 <name>Israto</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Domesticated Corn</resource_class>
 <stats>
 <DR>352</DR>
@@ -4104,7 +4104,7 @@
 </resource>
 <resource>
 <name>Oalvekt</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Domesticated Corn</resource_class>
 <stats>
 <DR>821</DR>
@@ -4118,7 +4118,7 @@
 </resource>
 <resource>
 <name>Adla</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Domesticated Corn</resource_class>
 <stats>
 <DR>785</DR>
@@ -4132,7 +4132,7 @@
 </resource>
 <resource>
 <name>Bopan</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Domesticated Corn</resource_class>
 <stats>
 <DR>663</DR>
@@ -4146,7 +4146,7 @@
 </resource>
 <resource>
 <name>Askema</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Domesticated Corn</resource_class>
 <stats>
 <DR>208</DR>
@@ -4160,7 +4160,7 @@
 </resource>
 <resource>
 <name>Odre</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Domesticated Corn</resource_class>
 <stats>
 <DR>79</DR>
@@ -4174,7 +4174,7 @@
 </resource>
 <resource>
 <name>Pitowola</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Domesticated Corn</resource_class>
 <stats>
 <DR>350</DR>
@@ -4188,7 +4188,7 @@
 </resource>
 <resource>
 <name>Pravitwah</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Domesticated Corn</resource_class>
 <stats>
 <DR>337</DR>
@@ -4202,7 +4202,7 @@
 </resource>
 <resource>
 <name>Aemo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Domesticated Corn</resource_class>
 <stats>
 <DR>110</DR>
@@ -4216,7 +4216,7 @@
 </resource>
 <resource>
 <name>Afevarle</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Domesticated Corn</resource_class>
 <stats>
 <DR>727</DR>
@@ -4230,7 +4230,7 @@
 </resource>
 <resource>
 <name>Ovof</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Domesticated Corn</resource_class>
 <stats>
 <DR>799</DR>
@@ -4244,7 +4244,7 @@
 </resource>
 <resource>
 <name>Appoa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Wild Corn</resource_class>
 <stats>
 <DR>348</DR>
@@ -4258,7 +4258,7 @@
 </resource>
 <resource>
 <name>Timoma</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Wild Corn</resource_class>
 <stats>
 <DR>752</DR>
@@ -4272,7 +4272,7 @@
 </resource>
 <resource>
 <name>Biwriakrov</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Wild Corn</resource_class>
 <stats>
 <DR>699</DR>
@@ -4286,7 +4286,7 @@
 </resource>
 <resource>
 <name>Wozey</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Wild Corn</resource_class>
 <stats>
 <DR>676</DR>
@@ -4300,7 +4300,7 @@
 </resource>
 <resource>
 <name>Soso</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Wild Corn</resource_class>
 <stats>
 <DR>111</DR>
@@ -4314,7 +4314,7 @@
 </resource>
 <resource>
 <name>Ikou</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Wild Corn</resource_class>
 <stats>
 <DR>581</DR>
@@ -4328,7 +4328,7 @@
 </resource>
 <resource>
 <name>Ercograo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Wild Corn</resource_class>
 <stats>
 <DR>418</DR>
@@ -4342,7 +4342,7 @@
 </resource>
 <resource>
 <name>Doverri</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Wild Corn</resource_class>
 <stats>
 <DR>160</DR>
@@ -4356,7 +4356,7 @@
 </resource>
 <resource>
 <name>Akoini</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Wild Corn</resource_class>
 <stats>
 <DR>521</DR>
@@ -4370,7 +4370,7 @@
 </resource>
 <resource>
 <name>Raiena</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Wild Corn</resource_class>
 <stats>
 <DR>190</DR>
@@ -4384,7 +4384,7 @@
 </resource>
 <resource>
 <name>Onodieto</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Wild Corn</resource_class>
 <stats>
 <DR>696</DR>
@@ -4398,7 +4398,7 @@
 </resource>
 <resource>
 <name>Idop</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Wild Corn</resource_class>
 <stats>
 <DR>751</DR>
@@ -4412,7 +4412,7 @@
 </resource>
 <resource>
 <name>Sile</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Domesticated Rice</resource_class>
 <stats>
 <DR>267</DR>
@@ -4426,7 +4426,7 @@
 </resource>
 <resource>
 <name>Adeirxo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Domesticated Rice</resource_class>
 <stats>
 <DR>597</DR>
@@ -4440,7 +4440,7 @@
 </resource>
 <resource>
 <name>Stelouwe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Domesticated Rice</resource_class>
 <stats>
 <DR>582</DR>
@@ -4454,7 +4454,7 @@
 </resource>
 <resource>
 <name>Odek</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Domesticated Rice</resource_class>
 <stats>
 <DR>266</DR>
@@ -4468,7 +4468,7 @@
 </resource>
 <resource>
 <name>Toothy</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Domesticated Rice</resource_class>
 <stats>
 <DR>286</DR>
@@ -4482,7 +4482,7 @@
 </resource>
 <resource>
 <name>Itras</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Domesticated Rice</resource_class>
 <stats>
 <DR>605</DR>
@@ -4496,7 +4496,7 @@
 </resource>
 <resource>
 <name>Averv</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Domesticated Rice</resource_class>
 <stats>
 <DR>91</DR>
@@ -4510,7 +4510,7 @@
 </resource>
 <resource>
 <name>Ogisvi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Domesticated Rice</resource_class>
 <stats>
 <DR>263</DR>
@@ -4524,7 +4524,7 @@
 </resource>
 <resource>
 <name>Ewrisx</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Domesticated Rice</resource_class>
 <stats>
 <DR>22</DR>
@@ -4538,7 +4538,7 @@
 </resource>
 <resource>
 <name>Evar</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Domesticated Rice</resource_class>
 <stats>
 <DR>891</DR>
@@ -4552,7 +4552,7 @@
 </resource>
 <resource>
 <name>Sesofossoe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Domesticated Rice</resource_class>
 <stats>
 <DR>335</DR>
@@ -4566,7 +4566,7 @@
 </resource>
 <resource>
 <name>Esethopi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Domesticated Rice</resource_class>
 <stats>
 <DR>761</DR>
@@ -4580,7 +4580,7 @@
 </resource>
 <resource>
 <name>Asmar</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Wild Rice</resource_class>
 <stats>
 <DR>735</DR>
@@ -4594,7 +4594,7 @@
 </resource>
 <resource>
 <name>Ini</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Wild Rice</resource_class>
 <stats>
 <DR>103</DR>
@@ -4608,7 +4608,7 @@
 </resource>
 <resource>
 <name>Elefo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Wild Rice</resource_class>
 <stats>
 <DR>449</DR>
@@ -4622,7 +4622,7 @@
 </resource>
 <resource>
 <name>Vane</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Wild Rice</resource_class>
 <stats>
 <DR>318</DR>
@@ -4636,7 +4636,7 @@
 </resource>
 <resource>
 <name>Deflaw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Wild Rice</resource_class>
 <stats>
 <DR>700</DR>
@@ -4650,7 +4650,7 @@
 </resource>
 <resource>
 <name>Idor</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Wild Rice</resource_class>
 <stats>
 <DR>224</DR>
@@ -4664,7 +4664,7 @@
 </resource>
 <resource>
 <name>Wrydao</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Wild Rice</resource_class>
 <stats>
 <DR>914</DR>
@@ -4678,7 +4678,7 @@
 </resource>
 <resource>
 <name>Iotacho</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Wild Rice</resource_class>
 <stats>
 <DR>792</DR>
@@ -4692,7 +4692,7 @@
 </resource>
 <resource>
 <name>Kaorei</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Wild Rice</resource_class>
 <stats>
 <DR>444</DR>
@@ -4706,7 +4706,7 @@
 </resource>
 <resource>
 <name>Orziwe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Wild Rice</resource_class>
 <stats>
 <DR>253</DR>
@@ -4720,7 +4720,7 @@
 </resource>
 <resource>
 <name>Kimi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Wild Rice</resource_class>
 <stats>
 <DR>925</DR>
@@ -4734,7 +4734,7 @@
 </resource>
 <resource>
 <name>Igov</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Wild Rice</resource_class>
 <stats>
 <DR>890</DR>
@@ -4748,7 +4748,7 @@
 </resource>
 <resource>
 <name>Quite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Domesticated Oats</resource_class>
 <stats>
 <DR>564</DR>
@@ -4762,7 +4762,7 @@
 </resource>
 <resource>
 <name>Aetagemow</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooinian Domesticated Oats</resource_class>
 <stats>
 <DR>845</DR>
@@ -4776,7 +4776,7 @@
 </resource>
 <resource>
 <name>Ecakolf</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Domesticated Oats</resource_class>
 <stats>
 <DR>439</DR>
@@ -4790,7 +4790,7 @@
 </resource>
 <resource>
 <name>Raebo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Domesticated Oats</resource_class>
 <stats>
 <DR>995</DR>
@@ -4804,7 +4804,7 @@
 </resource>
 <resource>
 <name>Ewhebob</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Domesticated Oats</resource_class>
 <stats>
 <DR>336</DR>
@@ -4818,7 +4818,7 @@
 </resource>
 <resource>
 <name>Esre</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Domesticated Oats</resource_class>
 <stats>
 <DR>284</DR>
@@ -4832,7 +4832,7 @@
 </resource>
 <resource>
 <name>Staky</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Domesticated Oats</resource_class>
 <stats>
 <DR>304</DR>
@@ -4846,7 +4846,7 @@
 </resource>
 <resource>
 <name>Keipan</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Domesticated Oats</resource_class>
 <stats>
 <DR>377</DR>
@@ -4860,7 +4860,7 @@
 </resource>
 <resource>
 <name>Ofau</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Domesticated Oats</resource_class>
 <stats>
 <DR>748</DR>
@@ -4874,7 +4874,7 @@
 </resource>
 <resource>
 <name>Ihesie</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Domesticated Oats</resource_class>
 <stats>
 <DR>457</DR>
@@ -4888,7 +4888,7 @@
 </resource>
 <resource>
 <name>Widood</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Domesticated Oats</resource_class>
 <stats>
 <DR>209</DR>
@@ -4902,7 +4902,7 @@
 </resource>
 <resource>
 <name>Bimoll</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Domesticated Oats</resource_class>
 <stats>
 <DR>737</DR>
@@ -4916,7 +4916,7 @@
 </resource>
 <resource>
 <name>Gimalin</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Wild Oats</resource_class>
 <stats>
 <DR>538</DR>
@@ -4930,7 +4930,7 @@
 </resource>
 <resource>
 <name>Ifosora</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooinian Wild Oats</resource_class>
 <stats>
 <DR>37</DR>
@@ -4944,7 +4944,7 @@
 </resource>
 <resource>
 <name>Fowie</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Wild Oats</resource_class>
 <stats>
 <DR>700</DR>
@@ -4958,7 +4958,7 @@
 </resource>
 <resource>
 <name>Owofi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Wild Oats</resource_class>
 <stats>
 <DR>548</DR>
@@ -4972,7 +4972,7 @@
 </resource>
 <resource>
 <name>Hiediob</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Wild Oats</resource_class>
 <stats>
 <DR>544</DR>
@@ -4986,7 +4986,7 @@
 </resource>
 <resource>
 <name>Eeniro</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Wild Oats</resource_class>
 <stats>
 <DR>595</DR>
@@ -5000,7 +5000,7 @@
 </resource>
 <resource>
 <name>Alet</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Wild Oats</resource_class>
 <stats>
 <DR>210</DR>
@@ -5014,7 +5014,7 @@
 </resource>
 <resource>
 <name>Gnababon</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Wild Oats</resource_class>
 <stats>
 <DR>191</DR>
@@ -5028,7 +5028,7 @@
 </resource>
 <resource>
 <name>Igeopala</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Wild Oats</resource_class>
 <stats>
 <DR>852</DR>
@@ -5042,7 +5042,7 @@
 </resource>
 <resource>
 <name>Iadase</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Wild Oats</resource_class>
 <stats>
 <DR>202</DR>
@@ -5056,7 +5056,7 @@
 </resource>
 <resource>
 <name>Auvowho</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Wild Oats</resource_class>
 <stats>
 <DR>176</DR>
@@ -5070,7 +5070,7 @@
 </resource>
 <resource>
 <name>Imiorloe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Wild Oats</resource_class>
 <stats>
 <DR>190</DR>
@@ -5084,7 +5084,7 @@
 </resource>
 <resource>
 <name>Dropi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Domesticated Wheat</resource_class>
 <stats>
 <DR>307</DR>
@@ -5098,7 +5098,7 @@
 </resource>
 <resource>
 <name>Oepo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Domesticated Wheat</resource_class>
 <stats>
 <DR>709</DR>
@@ -5112,7 +5112,7 @@
 </resource>
 <resource>
 <name>Oivo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Domesticated Wheat</resource_class>
 <stats>
 <DR>511</DR>
@@ -5126,7 +5126,7 @@
 </resource>
 <resource>
 <name>Hici</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Domesticated Wheat</resource_class>
 <stats>
 <DR>851</DR>
@@ -5140,7 +5140,7 @@
 </resource>
 <resource>
 <name>Arou</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Domesticated Wheat</resource_class>
 <stats>
 <DR>726</DR>
@@ -5154,7 +5154,7 @@
 </resource>
 <resource>
 <name>Rodhy</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Domesticated Wheat</resource_class>
 <stats>
 <DR>878</DR>
@@ -5168,7 +5168,7 @@
 </resource>
 <resource>
 <name>Pemi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Domesticated Wheat</resource_class>
 <stats>
 <DR>778</DR>
@@ -5182,7 +5182,7 @@
 </resource>
 <resource>
 <name>Ococ</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Domesticated Wheat</resource_class>
 <stats>
 <DR>757</DR>
@@ -5196,7 +5196,7 @@
 </resource>
 <resource>
 <name>Aupi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Domesticated Wheat</resource_class>
 <stats>
 <DR>999</DR>
@@ -5210,7 +5210,7 @@
 </resource>
 <resource>
 <name>Sitraheac</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Domesticated Wheat</resource_class>
 <stats>
 <DR>282</DR>
@@ -5224,7 +5224,7 @@
 </resource>
 <resource>
 <name>Ipaf</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Domesticated Wheat</resource_class>
 <stats>
 <DR>421</DR>
@@ -5238,7 +5238,7 @@
 </resource>
 <resource>
 <name>Mosra</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Domesticated Wheat</resource_class>
 <stats>
 <DR>944</DR>
@@ -5252,7 +5252,7 @@
 </resource>
 <resource>
 <name>Rilarz</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Wild Wheat</resource_class>
 <stats>
 <DR>95</DR>
@@ -5266,7 +5266,7 @@
 </resource>
 <resource>
 <name>Edeba</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Wild Wheat</resource_class>
 <stats>
 <DR>247</DR>
@@ -5280,7 +5280,7 @@
 </resource>
 <resource>
 <name>Obieh</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Wild Wheat</resource_class>
 <stats>
 <DR>819</DR>
@@ -5294,7 +5294,7 @@
 </resource>
 <resource>
 <name>Yiquoaw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Wild Wheat</resource_class>
 <stats>
 <DR>447</DR>
@@ -5308,7 +5308,7 @@
 </resource>
 <resource>
 <name>Pacia</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Wild Wheat</resource_class>
 <stats>
 <DR>553</DR>
@@ -5322,7 +5322,7 @@
 </resource>
 <resource>
 <name>Capeih</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Wild Wheat</resource_class>
 <stats>
 <DR>672</DR>
@@ -5336,7 +5336,7 @@
 </resource>
 <resource>
 <name>Lega</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Wild Wheat</resource_class>
 <stats>
 <DR>417</DR>
@@ -5350,7 +5350,7 @@
 </resource>
 <resource>
 <name>Gholaf</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Wild Wheat</resource_class>
 <stats>
 <DR>169</DR>
@@ -5364,7 +5364,7 @@
 </resource>
 <resource>
 <name>Odiaci</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Wild Wheat</resource_class>
 <stats>
 <DR>31</DR>
@@ -5378,7 +5378,7 @@
 </resource>
 <resource>
 <name>Shociteah</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Wild Wheat</resource_class>
 <stats>
 <DR>859</DR>
@@ -5392,7 +5392,7 @@
 </resource>
 <resource>
 <name>Jirem</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Wild Wheat</resource_class>
 <stats>
 <DR>977</DR>
@@ -5406,7 +5406,7 @@
 </resource>
 <resource>
 <name>Gianey</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Wild Wheat</resource_class>
 <stats>
 <DR>845</DR>
@@ -5420,7 +5420,7 @@
 </resource>
 <resource>
 <name>Fewa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Vegetable Greens</resource_class>
 <stats>
 <DR>808</DR>
@@ -5434,7 +5434,7 @@
 </resource>
 <resource>
 <name>Oomoldelif</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Vegetable Greens</resource_class>
 <stats>
 <DR>335</DR>
@@ -5448,7 +5448,7 @@
 </resource>
 <resource>
 <name>Eto</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Vegetable Greens</resource_class>
 <stats>
 <DR>860</DR>
@@ -5462,7 +5462,7 @@
 </resource>
 <resource>
 <name>Wadorx</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Vegetable Greens</resource_class>
 <stats>
 <DR>622</DR>
@@ -5476,7 +5476,7 @@
 </resource>
 <resource>
 <name>Eibir</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Vegetable Greens</resource_class>
 <stats>
 <DR>327</DR>
@@ -5490,7 +5490,7 @@
 </resource>
 <resource>
 <name>Iosko</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Vegetable Greens</resource_class>
 <stats>
 <DR>979</DR>
@@ -5504,7 +5504,7 @@
 </resource>
 <resource>
 <name>Tivi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Vegetable Greens</resource_class>
 <stats>
 <DR>148</DR>
@@ -5518,7 +5518,7 @@
 </resource>
 <resource>
 <name>Ebeisoi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Vegetable Greens</resource_class>
 <stats>
 <DR>710</DR>
@@ -5532,7 +5532,7 @@
 </resource>
 <resource>
 <name>Hokalv</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Vegetable Greens</resource_class>
 <stats>
 <DR>636</DR>
@@ -5546,7 +5546,7 @@
 </resource>
 <resource>
 <name>Evvetreboc</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Vegetable Greens</resource_class>
 <stats>
 <DR>384</DR>
@@ -5560,7 +5560,7 @@
 </resource>
 <resource>
 <name>Webig</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Beyrllius Copper</resource_class>
 <stats>
 <CR>294</CR>
@@ -5585,7 +5585,7 @@
 </resource>
 <resource>
 <name>Luhaiam</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Diatium Copper</resource_class>
 <stats>
 <CR>409</CR>
@@ -5610,7 +5610,7 @@
 </resource>
 <resource>
 <name>Omnivileris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kelsh Copper</resource_class>
 <stats>
 <CR>546</CR>
@@ -5635,7 +5635,7 @@
 </resource>
 <resource>
 <name>Mordeut</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kelsh Copper</resource_class>
 <stats>
 <CR>504</CR>
@@ -5660,7 +5660,7 @@
 </resource>
 <resource>
 <name>Kefoogob</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mythra Copper</resource_class>
 <stats>
 <CR>608</CR>
@@ -5685,7 +5685,7 @@
 </resource>
 <resource>
 <name>Quadehaghtipium</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mythra Copper</resource_class>
 <stats>
 <CR>538</CR>
@@ -5710,7 +5710,7 @@
 </resource>
 <resource>
 <name>Mokesaelfi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Platinite Copper</resource_class>
 <stats>
 <CR>613</CR>
@@ -5735,7 +5735,7 @@
 </resource>
 <resource>
 <name>Akolo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Polysteel Copper</resource_class>
 <stats>
 <CR>735</CR>
@@ -5760,7 +5760,7 @@
 </resource>
 <resource>
 <name>Carbomev</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Codoan Copper</resource_class>
 <stats>
 <CR>381</CR>
@@ -5785,7 +5785,7 @@
 </resource>
 <resource>
 <name>Eisific</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Extrusive Ore</resource_class>
 <stats>
 <CR>961</CR>
@@ -5802,7 +5802,7 @@
 </resource>
 <resource>
 <name>Iciate</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Bene Extrusive Ore</resource_class>
 <stats>
 <CR>294</CR>
@@ -5820,7 +5820,7 @@
 </resource>
 <resource>
 <name>Duretesis</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Chronamite Extrusive Ore</resource_class>
 <stats>
 <CR>355</CR>
@@ -5839,7 +5839,7 @@
 </resource>
 <resource>
 <name>Osemiite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Ilimium Extrusive Ore</resource_class>
 <stats>
 <CR>341</CR>
@@ -5857,7 +5857,7 @@
 </resource>
 <resource>
 <name>Edih</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Ilimium Extrusive Ore</resource_class>
 <stats>
 <CR>405</CR>
@@ -5876,7 +5876,7 @@
 </resource>
 <resource>
 <name>Ievoa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Keschel Extrusive Ore</resource_class>
 <stats>
 <CR>615</CR>
@@ -5895,7 +5895,7 @@
 </resource>
 <resource>
 <name>Ofabobide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lidium Extrusive Ore</resource_class>
 <stats>
 <CR>583</CR>
@@ -5913,7 +5913,7 @@
 </resource>
 <resource>
 <name>Diverigaism</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Maranium Extrusive Ore</resource_class>
 <stats>
 <CR>752</CR>
@@ -5930,7 +5930,7 @@
 </resource>
 <resource>
 <name>Acepy</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Quadrenium Extrusive Ore</resource_class>
 <stats>
 <CR>912</CR>
@@ -5947,7 +5947,7 @@
 </resource>
 <resource>
 <name>Onoris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Vintrium Extrusive Ore</resource_class>
 <stats>
 <CR>924</CR>
@@ -5964,7 +5964,7 @@
 </resource>
 <resource>
 <name>Carbala</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Extrusive Ore</resource_class>
 <stats>
 <CR>908</CR>
@@ -5981,7 +5981,7 @@
 </resource>
 <resource>
 <name>Durekigaubism</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Intrusive Ore</resource_class>
 <stats>
 <CR>884</CR>
@@ -5998,7 +5998,7 @@
 </resource>
 <resource>
 <name>Durimee</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Berubium Intrusive Ore</resource_class>
 <stats>
 <CR>257</CR>
@@ -6017,7 +6017,7 @@
 </resource>
 <resource>
 <name>Sigo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Chanlon Intrusive Ore</resource_class>
 <stats>
 <CR>305</CR>
@@ -6035,7 +6035,7 @@
 </resource>
 <resource>
 <name>Efuno</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corintium Intrusive Ore</resource_class>
 <stats>
 <CR>404</CR>
@@ -6053,7 +6053,7 @@
 </resource>
 <resource>
 <name>Fekawouw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dylinium Intrusive Ore</resource_class>
 <stats>
 <CR>703</CR>
@@ -6071,7 +6071,7 @@
 </resource>
 <resource>
 <name>Ehaulo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dylinium Intrusive Ore</resource_class>
 <stats>
 <CR>686</CR>
@@ -6090,7 +6090,7 @@
 </resource>
 <resource>
 <name>Carbneomafiris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Hollinium Intrusive Ore</resource_class>
 <stats>
 <CR>721</CR>
@@ -6109,7 +6109,7 @@
 </resource>
 <resource>
 <name>Carbabesise</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Ionite Intrusive Ore</resource_class>
 <stats>
 <CR>833</CR>
@@ -6126,7 +6126,7 @@
 </resource>
 <resource>
 <name>Aleh</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Katrium Intrusive Ore</resource_class>
 <stats>
 <CR>939</CR>
@@ -6144,7 +6144,7 @@
 </resource>
 <resource>
 <name>Xohiker</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Intrusive Ore</resource_class>
 <stats>
 <CR>934</CR>
@@ -6161,7 +6161,7 @@
 </resource>
 <resource>
 <name>Carberreium</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Unknown Igneous Ore</resource_class>
 <stats>
 <CR>686</CR>
@@ -6179,7 +6179,7 @@
 </resource>
 <resource>
 <name>Trigegoa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Alantium Carbonate Ore</resource_class>
 <stats>
 <CR>318</CR>
@@ -6203,7 +6203,7 @@
 </resource>
 <resource>
 <name>Onur</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Alantium Carbonate Ore</resource_class>
 <stats>
 <CR>321</CR>
@@ -6227,7 +6227,7 @@
 </resource>
 <resource>
 <name>Asameide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Barthierium Carbonate Ore</resource_class>
 <stats>
 <CR>421</CR>
@@ -6251,7 +6251,7 @@
 </resource>
 <resource>
 <name>Carbonodifite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Chromite Carbonate Ore</resource_class>
 <stats>
 <CR>582</CR>
@@ -6275,7 +6275,7 @@
 </resource>
 <resource>
 <name>Ode</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lommite Carbonate Ore</resource_class>
 <stats>
 <CR>683</CR>
@@ -6299,7 +6299,7 @@
 </resource>
 <resource>
 <name>Cixodih</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Varium Carbonate Ore</resource_class>
 <stats>
 <CR>911</CR>
@@ -6323,7 +6323,7 @@
 </resource>
 <resource>
 <name>Agets</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Varium Carbonate Ore</resource_class>
 <stats>
 <CR>814</CR>
@@ -6347,7 +6347,7 @@
 </resource>
 <resource>
 <name>Asebepe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Zinsiam Carbonate Ore</resource_class>
 <stats>
 <CR>919</CR>
@@ -6371,7 +6371,7 @@
 </resource>
 <resource>
 <name>Welodremium</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Fermionic Siliclastic Ore</resource_class>
 <stats>
 <CR>606</CR>
@@ -6388,7 +6388,7 @@
 </resource>
 <resource>
 <name>Riloian</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Ardanium Siliclastic Ore</resource_class>
 <stats>
 <CR>414</CR>
@@ -6412,7 +6412,7 @@
 </resource>
 <resource>
 <name>Fabe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Cortosis Siliclastic Ore</resource_class>
 <stats>
 <CR>561</CR>
@@ -6436,7 +6436,7 @@
 </resource>
 <resource>
 <name>Triwisab</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Crism Siliclastic Ore</resource_class>
 <stats>
 <CR>593</CR>
@@ -6460,7 +6460,7 @@
 </resource>
 <resource>
 <name>Ewabaic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Crism Siliclastic Ore</resource_class>
 <stats>
 <CR>502</CR>
@@ -6484,7 +6484,7 @@
 </resource>
 <resource>
 <name>Durtrilofaism</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Malab Siliclastic Ore</resource_class>
 <stats>
 <CR>639</CR>
@@ -6508,7 +6508,7 @@
 </resource>
 <resource>
 <name>Ditetrahisoiniiam</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tertian Siliclastic Ore</resource_class>
 <stats>
 <CR>937</CR>
@@ -6532,7 +6532,7 @@
 </resource>
 <resource>
 <name>Kekomou</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Fruit</resource_class>
 <stats>
 <DR>490</DR>
@@ -6546,7 +6546,7 @@
 </resource>
 <resource>
 <name>Osreoca</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Fruit</resource_class>
 <stats>
 <DR>956</DR>
@@ -6560,7 +6560,7 @@
 </resource>
 <resource>
 <name>Ahnogig</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Fruit</resource_class>
 <stats>
 <DR>733</DR>
@@ -6574,7 +6574,7 @@
 </resource>
 <resource>
 <name>Ibrotoa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Fruit</resource_class>
 <stats>
 <DR>279</DR>
@@ -6588,7 +6588,7 @@
 </resource>
 <resource>
 <name>Emiosap</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Fruit</resource_class>
 <stats>
 <DR>566</DR>
@@ -6602,7 +6602,7 @@
 </resource>
 <resource>
 <name>Abivvale</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Berry Fruit</resource_class>
 <stats>
 <DR>974</DR>
@@ -6616,7 +6616,7 @@
 </resource>
 <resource>
 <name>Osquomeekiem</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Berry Fruit</resource_class>
 <stats>
 <DR>448</DR>
@@ -6630,7 +6630,7 @@
 </resource>
 <resource>
 <name>Habee</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Berry Fruit</resource_class>
 <stats>
 <DR>666</DR>
@@ -6644,7 +6644,7 @@
 </resource>
 <resource>
 <name>Atalou</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Berry Fruit</resource_class>
 <stats>
 <DR>847</DR>
@@ -6658,7 +6658,7 @@
 </resource>
 <resource>
 <name>Etarcobleu</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Berry Fruit</resource_class>
 <stats>
 <DR>162</DR>
@@ -6672,7 +6672,7 @@
 </resource>
 <resource>
 <name>Ibew</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooina Berry Fruit</resource_class>
 <stats>
 <DR>245</DR>
@@ -6686,7 +6686,7 @@
 </resource>
 <resource>
 <name>Amitheu</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Berry Fruit</resource_class>
 <stats>
 <DR>945</DR>
@@ -6700,7 +6700,7 @@
 </resource>
 <resource>
 <name>Afahae</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Berry Fruit</resource_class>
 <stats>
 <DR>481</DR>
@@ -6714,7 +6714,7 @@
 </resource>
 <resource>
 <name>Ihelk</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Berry Fruit</resource_class>
 <stats>
 <DR>279</DR>
@@ -6728,7 +6728,7 @@
 </resource>
 <resource>
 <name>Aeseqe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Berry Fruit</resource_class>
 <stats>
 <DR>392</DR>
@@ -6742,7 +6742,7 @@
 </resource>
 <resource>
 <name>Efiw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Berry Fruit</resource_class>
 <stats>
 <DR>568</DR>
@@ -6756,7 +6756,7 @@
 </resource>
 <resource>
 <name>Eshad</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Berry Fruit</resource_class>
 <stats>
 <DR>585</DR>
@@ -6770,7 +6770,7 @@
 </resource>
 <resource>
 <name>Etaesmi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Flower Fruit</resource_class>
 <stats>
 <DR>334</DR>
@@ -6784,7 +6784,7 @@
 </resource>
 <resource>
 <name>Ehie</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Flower Fruit</resource_class>
 <stats>
 <DR>361</DR>
@@ -6798,7 +6798,7 @@
 </resource>
 <resource>
 <name>Adieweom</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Flower Fruit</resource_class>
 <stats>
 <DR>752</DR>
@@ -6812,7 +6812,7 @@
 </resource>
 <resource>
 <name>Agloli</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Flower Fruit</resource_class>
 <stats>
 <DR>668</DR>
@@ -6826,7 +6826,7 @@
 </resource>
 <resource>
 <name>Ybojj</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Flower Fruit</resource_class>
 <stats>
 <DR>952</DR>
@@ -6840,7 +6840,7 @@
 </resource>
 <resource>
 <name>Easkide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Flower Fruit</resource_class>
 <stats>
 <DR>317</DR>
@@ -6854,7 +6854,7 @@
 </resource>
 <resource>
 <name>Areg</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rorian Flower Fruit</resource_class>
 <stats>
 <DR>347</DR>
@@ -6868,7 +6868,7 @@
 </resource>
 <resource>
 <name>Bowamiosc</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Flower Fruit</resource_class>
 <stats>
 <DR>968</DR>
@@ -6882,7 +6882,7 @@
 </resource>
 <resource>
 <name>Coveehym</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Flower Fruit</resource_class>
 <stats>
 <DR>289</DR>
@@ -6896,7 +6896,7 @@
 </resource>
 <resource>
 <name>Ilit</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Flower Fruit</resource_class>
 <stats>
 <DR>17</DR>
@@ -6910,7 +6910,7 @@
 </resource>
 <resource>
 <name>Iehok</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Flower Fruit</resource_class>
 <stats>
 <DR>728</DR>
@@ -6924,7 +6924,7 @@
 </resource>
 <resource>
 <name>Agea</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Flower Fruit</resource_class>
 <stats>
 <DR>479</DR>
@@ -6938,7 +6938,7 @@
 </resource>
 <resource>
 <name>Ifij</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Deciduous Wood</resource_class>
 <stats>
 <DR>772</DR>
@@ -6953,7 +6953,7 @@
 </resource>
 <resource>
 <name>Maprozas</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Deciduous Wood</resource_class>
 <stats>
 <DR>621</DR>
@@ -6968,7 +6968,7 @@
 </resource>
 <resource>
 <name>Ifowigo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Deciduous Wood</resource_class>
 <stats>
 <DR>763</DR>
@@ -6983,7 +6983,7 @@
 </resource>
 <resource>
 <name>Imeow</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Deciduous Wood</resource_class>
 <stats>
 <DR>573</DR>
@@ -6998,7 +6998,7 @@
 </resource>
 <resource>
 <name>Fopa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Deciduous Wood</resource_class>
 <stats>
 <DR>280</DR>
@@ -7013,7 +7013,7 @@
 </resource>
 <resource>
 <name>Alomevie</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Deciduous Wood</resource_class>
 <stats>
 <DR>477</DR>
@@ -7028,7 +7028,7 @@
 </resource>
 <resource>
 <name>Dacokas</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Deciduous Wood</resource_class>
 <stats>
 <DR>554</DR>
@@ -7043,7 +7043,7 @@
 </resource>
 <resource>
 <name>Vowau</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Deciduous Wood</resource_class>
 <stats>
 <DR>194</DR>
@@ -7058,7 +7058,7 @@
 </resource>
 <resource>
 <name>Ekogrih</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Deciduous Wood</resource_class>
 <stats>
 <DR>4</DR>
@@ -7073,7 +7073,7 @@
 </resource>
 <resource>
 <name>Ehatesh</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Deciduous Wood</resource_class>
 <stats>
 <DR>403</DR>
@@ -7088,7 +7088,7 @@
 </resource>
 <resource>
 <name>Eigos</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Deciduous Wood</resource_class>
 <stats>
 <DR>6</DR>
@@ -7103,7 +7103,7 @@
 </resource>
 <resource>
 <name>Vepio</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Deciduous Wood</resource_class>
 <stats>
 <DR>569</DR>
@@ -7118,7 +7118,7 @@
 </resource>
 <resource>
 <name>Ovogower</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Conifer Wood</resource_class>
 <stats>
 <DR>293</DR>
@@ -7133,7 +7133,7 @@
 </resource>
 <resource>
 <name>Giwe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Conifer Wood</resource_class>
 <stats>
 <DR>3</DR>
@@ -7148,7 +7148,7 @@
 </resource>
 <resource>
 <name>Edwo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Conifer Wood</resource_class>
 <stats>
 <DR>336</DR>
@@ -7163,7 +7163,7 @@
 </resource>
 <resource>
 <name>Okimi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Conifer Wood</resource_class>
 <stats>
 <DR>201</DR>
@@ -7178,7 +7178,7 @@
 </resource>
 <resource>
 <name>Agi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Conifer Wood</resource_class>
 <stats>
 <DR>257</DR>
@@ -7193,7 +7193,7 @@
 </resource>
 <resource>
 <name>Wally</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Conifer Wood</resource_class>
 <stats>
 <DR>355</DR>
@@ -7208,7 +7208,7 @@
 </resource>
 <resource>
 <name>Akirv</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Conifer Wood</resource_class>
 <stats>
 <DR>279</DR>
@@ -7223,7 +7223,7 @@
 </resource>
 <resource>
 <name>Ibiorer</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Conifer Wood</resource_class>
 <stats>
 <DR>543</DR>
@@ -7238,7 +7238,7 @@
 </resource>
 <resource>
 <name>Kipreu</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Conifer Wood</resource_class>
 <stats>
 <DR>211</DR>
@@ -7253,7 +7253,7 @@
 </resource>
 <resource>
 <name>Lorathiwo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Conifer Wood</resource_class>
 <stats>
 <DR>478</DR>
@@ -7268,7 +7268,7 @@
 </resource>
 <resource>
 <name>Rhima</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Conifer Wood</resource_class>
 <stats>
 <DR>404</DR>
@@ -7283,7 +7283,7 @@
 </resource>
 <resource>
 <name>Eaboile</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Conifer Wood</resource_class>
 <stats>
 <DR>373</DR>
@@ -7298,7 +7298,7 @@
 </resource>
 <resource>
 <name>Izavva</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Evergreen Wood</resource_class>
 <stats>
 <DR>243</DR>
@@ -7313,7 +7313,7 @@
 </resource>
 <resource>
 <name>Rewhyn</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Evergreen Wood</resource_class>
 <stats>
 <DR>433</DR>
@@ -7328,7 +7328,7 @@
 </resource>
 <resource>
 <name>Tofilm</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Evergreen Wood</resource_class>
 <stats>
 <DR>244</DR>
@@ -7343,7 +7343,7 @@
 </resource>
 <resource>
 <name>Ostis</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Evergreen Wood</resource_class>
 <stats>
 <DR>21</DR>
@@ -7358,7 +7358,7 @@
 </resource>
 <resource>
 <name>Olif</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Evergreen Wood</resource_class>
 <stats>
 <DR>110</DR>
@@ -7373,7 +7373,7 @@
 </resource>
 <resource>
 <name>Affeporlo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Evergreen Wood</resource_class>
 <stats>
 <DR>228</DR>
@@ -7388,7 +7388,7 @@
 </resource>
 <resource>
 <name>Aswib</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rorian Evergreen Wood</resource_class>
 <stats>
 <DR>234</DR>
@@ -7403,7 +7403,7 @@
 </resource>
 <resource>
 <name>Smebo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Evergreen Wood</resource_class>
 <stats>
 <DR>379</DR>
@@ -7418,7 +7418,7 @@
 </resource>
 <resource>
 <name>Mostib</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Evergreen Wood</resource_class>
 <stats>
 <DR>336</DR>
@@ -7433,7 +7433,7 @@
 </resource>
 <resource>
 <name>Oreso</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Evergreen Wood</resource_class>
 <stats>
 <DR>28</DR>
@@ -7448,7 +7448,7 @@
 </resource>
 <resource>
 <name>Wucelas</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Evergreen Wood</resource_class>
 <stats>
 <DR>377</DR>
@@ -7463,7 +7463,7 @@
 </resource>
 <resource>
 <name>Awov</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Evergreen Wood</resource_class>
 <stats>
 <DR>342</DR>
@@ -7478,7 +7478,7 @@
 </resource>
 <resource>
 <name>Wapetrid</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Liquid Petro Fuel</resource_class>
 <stats>
 <DR>509</DR>
@@ -7491,7 +7491,7 @@
 </resource>
 <resource>
 <name>Carbehoomoa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 1 Liquid Petro Fuel</resource_class>
 <stats>
 <DR>343</DR>
@@ -7505,7 +7505,7 @@
 </resource>
 <resource>
 <name>Omnipohi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 2 Liquid Petro Fuel</resource_class>
 <stats>
 <DR>336</DR>
@@ -7518,7 +7518,7 @@
 </resource>
 <resource>
 <name>Eple</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 3 Liquid Petro Fuel</resource_class>
 <stats>
 <DR>520</DR>
@@ -7531,7 +7531,7 @@
 </resource>
 <resource>
 <name>Duradacariate</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 4 Liquid Petro Fuel</resource_class>
 <stats>
 <DR>522</DR>
@@ -7545,7 +7545,7 @@
 </resource>
 <resource>
 <name>Loethme</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 5 Liquid Petro Fuel</resource_class>
 <stats>
 <DR>278</DR>
@@ -7560,7 +7560,7 @@
 </resource>
 <resource>
 <name>Omnineobaragoate</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 6 Liquid Petro Fuel</resource_class>
 <stats>
 <DR>241</DR>
@@ -7575,7 +7575,7 @@
 </resource>
 <resource>
 <name>Carbaceic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 7 Liquid Petro Fuel</resource_class>
 <stats>
 <DR>600</DR>
@@ -7589,7 +7589,7 @@
 </resource>
 <resource>
 <name>Trichrafegism</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Unknown Liquid Petrochem Fuel</resource_class>
 <stats>
 <DR>990</DR>
@@ -7604,7 +7604,7 @@
 </resource>
 <resource>
 <name>Opaw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lubricating Oil</resource_class>
 <stats>
 <DR>972</DR>
@@ -7623,7 +7623,7 @@
 </resource>
 <resource>
 <name>Sele</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lubricating Oil</resource_class>
 <stats>
 <DR>636</DR>
@@ -7642,7 +7642,7 @@
 </resource>
 <resource>
 <name>Eupirho</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Polymer</resource_class>
 <stats>
 <DR>626</DR>
@@ -7664,7 +7664,7 @@
 </resource>
 <resource>
 <name>Durneoboniroiate</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Polymer</resource_class>
 <stats>
 <DR>751</DR>
@@ -7686,7 +7686,7 @@
 </resource>
 <resource>
 <name>Ipithoi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Fiberplast</resource_class>
 <stats>
 <DR>229</DR>
@@ -7701,7 +7701,7 @@
 </resource>
 <resource>
 <name>Cuzasos</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Fiberplast</resource_class>
 <stats>
 <DR>157</DR>
@@ -7716,7 +7716,7 @@
 </resource>
 <resource>
 <name>Edi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Fiberplast</resource_class>
 <stats>
 <DR>361</DR>
@@ -7731,7 +7731,7 @@
 </resource>
 <resource>
 <name>Thohihigrie</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Fiberplast</resource_class>
 <stats>
 <DR>205</DR>
@@ -7746,7 +7746,7 @@
 </resource>
 <resource>
 <name>Akloseih</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Fiberplast</resource_class>
 <stats>
 <DR>809</DR>
@@ -7761,7 +7761,7 @@
 </resource>
 <resource>
 <name>Ociffa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Fiberplast</resource_class>
 <stats>
 <DR>985</DR>
@@ -7776,7 +7776,7 @@
 </resource>
 <resource>
 <name>Sraoca</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Fiberplast</resource_class>
 <stats>
 <DR>586</DR>
@@ -7791,7 +7791,7 @@
 </resource>
 <resource>
 <name>Nicha</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Fiberplast</resource_class>
 <stats>
 <DR>309</DR>
@@ -7806,7 +7806,7 @@
 </resource>
 <resource>
 <name>Eapripo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Fiberplast</resource_class>
 <stats>
 <DR>669</DR>
@@ -7821,7 +7821,7 @@
 </resource>
 <resource>
 <name>Wafegloj</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Gravitonic Fiberplast</resource_class>
 <stats>
 <DR>256</DR>
@@ -7836,7 +7836,7 @@
 </resource>
 <resource>
 <name>Ibikt</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Fiberplast</resource_class>
 <stats>
 <DR>24</DR>
@@ -7851,7 +7851,7 @@
 </resource>
 <resource>
 <name>Aliki</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Fiberplast</resource_class>
 <stats>
 <DR>235</DR>
@@ -7866,7 +7866,7 @@
 </resource>
 <resource>
 <name>Serisa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Fiberplast</resource_class>
 <stats>
 <DR>91</DR>
@@ -7881,7 +7881,7 @@
 </resource>
 <resource>
 <name>Arova</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Water Vapor</resource_class>
 <stats>
 <DR>756</DR>
@@ -7893,7 +7893,7 @@
 </resource>
 <resource>
 <name>Dacio</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Water Vapor</resource_class>
 <stats>
 <DR>142</DR>
@@ -7905,7 +7905,7 @@
 </resource>
 <resource>
 <name>Obroik</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Water Vapor</resource_class>
 <stats>
 <DR>165</DR>
@@ -7917,7 +7917,7 @@
 </resource>
 <resource>
 <name>Ovint</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Water Vapor</resource_class>
 <stats>
 <DR>993</DR>
@@ -7929,7 +7929,7 @@
 </resource>
 <resource>
 <name>Ettaihiro</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Water Vapor</resource_class>
 <stats>
 <DR>456</DR>
@@ -7941,7 +7941,7 @@
 </resource>
 <resource>
 <name>Aklo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Water Vapor</resource_class>
 <stats>
 <DR>440</DR>
@@ -7953,7 +7953,7 @@
 </resource>
 <resource>
 <name>Ehepiw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Water Vapor</resource_class>
 <stats>
 <DR>889</DR>
@@ -7965,7 +7965,7 @@
 </resource>
 <resource>
 <name>Ewoptia</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Water Vapor</resource_class>
 <stats>
 <DR>314</DR>
@@ -7977,7 +7977,7 @@
 </resource>
 <resource>
 <name>Gopere</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Water Vapor</resource_class>
 <stats>
 <DR>595</DR>
@@ -7989,7 +7989,7 @@
 </resource>
 <resource>
 <name>Couna</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Water Vapor</resource_class>
 <stats>
 <DR>353</DR>
@@ -8001,7 +8001,7 @@
 </resource>
 <resource>
 <name>Open</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Water Vapor</resource_class>
 <stats>
 <DR>658</DR>
@@ -8013,7 +8013,7 @@
 </resource>
 <resource>
 <name>Oukokoi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Water Vapor</resource_class>
 <stats>
 <DR>76</DR>
@@ -8025,7 +8025,7 @@
 </resource>
 <resource>
 <name>Haenado</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 1 Solid Petro Fuel</resource_class>
 <stats>
 <DR>94</DR>
@@ -8040,7 +8040,7 @@
 </resource>
 <resource>
 <name>Inasoite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 1 Solid Petro Fuel</resource_class>
 <stats>
 <DR>113</DR>
@@ -8053,7 +8053,7 @@
 </resource>
 <resource>
 <name>Ocadloaso</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 1 Solid Petro Fuel</resource_class>
 <stats>
 <DR>104</DR>
@@ -8066,7 +8066,7 @@
 </resource>
 <resource>
 <name>Porce</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 1 Solid Petro Fuel</resource_class>
 <stats>
 <DR>74</DR>
@@ -8081,7 +8081,7 @@
 </resource>
 <resource>
 <name>Cosethyian</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 1 Solid Petro Fuel</resource_class>
 <stats>
 <DR>86</DR>
@@ -8095,7 +8095,7 @@
 </resource>
 <resource>
 <name>Widroscate</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 1 Solid Petro Fuel</resource_class>
 <stats>
 <DR>119</DR>
@@ -8110,7 +8110,7 @@
 </resource>
 <resource>
 <name>Feappe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 1 Solid Petro Fuel</resource_class>
 <stats>
 <DR>107</DR>
@@ -8123,7 +8123,7 @@
 </resource>
 <resource>
 <name>Episir</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 1 Solid Petro Fuel</resource_class>
 <stats>
 <DR>17</DR>
@@ -8137,7 +8137,7 @@
 </resource>
 <resource>
 <name>Omnimasa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Solid Petro Fuel</resource_class>
 <stats>
 <DR>778</DR>
@@ -8150,7 +8150,7 @@
 </resource>
 <resource>
 <name>Iweo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 2 Solid Petro Fuel</resource_class>
 <stats>
 <DR>249</DR>
@@ -8163,7 +8163,7 @@
 </resource>
 <resource>
 <name>Eatov</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 3 Solid Petro Fuel</resource_class>
 <stats>
 <DR>224</DR>
@@ -8178,7 +8178,7 @@
 </resource>
 <resource>
 <name>Tripicoian</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 4 Solid Petro Fuel</resource_class>
 <stats>
 <DR>407</DR>
@@ -8192,7 +8192,7 @@
 </resource>
 <resource>
 <name>Quadaoliwono</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 5 Solid Petro Fuel</resource_class>
 <stats>
 <DR>522</DR>
@@ -8207,7 +8207,7 @@
 </resource>
 <resource>
 <name>Ieha</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 6 Solid Petro Fuel</resource_class>
 <stats>
 <DR>650</DR>
@@ -8222,7 +8222,7 @@
 </resource>
 <resource>
 <name>Ikram</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 7 Solid Petro Fuel</resource_class>
 <stats>
 <DR>748</DR>
@@ -8235,7 +8235,7 @@
 </resource>
 <resource>
 <name>Eovvattocto</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Unknown Solid Petrochem Fuel</resource_class>
 <stats>
 <DR>373</DR>
@@ -8249,7 +8249,7 @@
 </resource>
 <resource>
 <name>Vivovi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Radioactive</resource_class>
 <stats>
 <DR>947</DR>
@@ -8262,7 +8262,7 @@
 </resource>
 <resource>
 <name>Durinaciism</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>High Grade Polymetric Radioactive</resource_class>
 <stats>
 <DR>746</DR>
@@ -8275,7 +8275,7 @@
 </resource>
 <resource>
 <name>Llobaic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 1 Radioactive</resource_class>
 <stats>
 <DR>422</DR>
@@ -8295,7 +8295,7 @@
 </resource>
 <resource>
 <name>Kenos</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 2 Radioactive</resource_class>
 <stats>
 <DR>515</DR>
@@ -8315,7 +8315,7 @@
 </resource>
 <resource>
 <name>Mare</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 3 Radioactive</resource_class>
 <stats>
 <DR>538</DR>
@@ -8335,7 +8335,7 @@
 </resource>
 <resource>
 <name>Varalyf</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 4 Radioactive</resource_class>
 <stats>
 <DR>561</DR>
@@ -8355,7 +8355,7 @@
 </resource>
 <resource>
 <name>Aomedau</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 5 Radioactive</resource_class>
 <stats>
 <DR>670</DR>
@@ -8375,7 +8375,7 @@
 </resource>
 <resource>
 <name>Trinowaide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 6 Radioactive</resource_class>
 <stats>
 <DR>715</DR>
@@ -8395,7 +8395,7 @@
 </resource>
 <resource>
 <name>Aofaiam</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Class 7 Radioactive</resource_class>
 <stats>
 <DR>778</DR>
@@ -8415,7 +8415,7 @@
 </resource>
 <resource>
 <name>Quadehellowiine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Unknown Radioactive Isotopes</resource_class>
 <stats>
 <DR>238</DR>
@@ -8429,7 +8429,7 @@
 </resource>
 <resource>
 <name>Ridooris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Hardened Arveshium Steel</resource_class>
 <stats>
 <CR>434</CR>
@@ -8447,7 +8447,7 @@
 </resource>
 <resource>
 <name>Kisa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Crystallized Bicorbantium Steel</resource_class>
 <stats>
 <CR>128</CR>
@@ -8465,7 +8465,7 @@
 </resource>
 <resource>
 <name>Odeurkapevsis</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Steel</resource_class>
 <stats>
 <CR>773</CR>
@@ -8483,7 +8483,7 @@
 </resource>
 <resource>
 <name>Quadapeaxebagine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rhodium Steel</resource_class>
 <stats>
 <CR>21</CR>
@@ -8508,7 +8508,7 @@
 </resource>
 <resource>
 <name>Uwewaiepine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rhodium Steel</resource_class>
 <stats>
 <CR>30</CR>
@@ -8533,7 +8533,7 @@
 </resource>
 <resource>
 <name>Ebab</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Cubirian Steel</resource_class>
 <stats>
 <CR>249</CR>
@@ -8558,7 +8558,7 @@
 </resource>
 <resource>
 <name>Arloedian</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Thoranium Steel</resource_class>
 <stats>
 <CR>296</CR>
@@ -8583,7 +8583,7 @@
 </resource>
 <resource>
 <name>Ibi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Neutronium Steel</resource_class>
 <stats>
 <CR>351</CR>
@@ -8608,7 +8608,7 @@
 </resource>
 <resource>
 <name>Egofo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Neutronium Steel</resource_class>
 <stats>
 <CR>419</CR>
@@ -8633,7 +8633,7 @@
 </resource>
 <resource>
 <name>Duretait</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Duranium Steel</resource_class>
 <stats>
 <CR>494</CR>
@@ -8658,7 +8658,7 @@
 </resource>
 <resource>
 <name>Evousis</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Ditanium Steel</resource_class>
 <stats>
 <CR>533</CR>
@@ -8683,7 +8683,7 @@
 </resource>
 <resource>
 <name>Quadegweic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Quadranium Steel</resource_class>
 <stats>
 <CR>544</CR>
@@ -8708,7 +8708,7 @@
 </resource>
 <resource>
 <name>Carbydeonite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Quadranium Steel</resource_class>
 <stats>
 <CR>570</CR>
@@ -8733,7 +8733,7 @@
 </resource>
 <resource>
 <name>Iroite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Iron</resource_class>
 <stats>
 <CR>772</CR>
@@ -8751,7 +8751,7 @@
 </resource>
 <resource>
 <name>Idemeo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Polonium Iron</resource_class>
 <stats>
 <CR>141</CR>
@@ -8771,7 +8771,7 @@
 </resource>
 <resource>
 <name>Dureahikeabiium</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Axidite Iron</resource_class>
 <stats>
 <CR>264</CR>
@@ -8789,7 +8789,7 @@
 </resource>
 <resource>
 <name>Quadejav</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Axidite Iron</resource_class>
 <stats>
 <CR>235</CR>
@@ -8807,7 +8807,7 @@
 </resource>
 <resource>
 <name>Atimite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Axidite Iron</resource_class>
 <stats>
 <CR>266</CR>
@@ -8826,7 +8826,7 @@
 </resource>
 <resource>
 <name>Sifa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Bronzium Iron</resource_class>
 <stats>
 <CR>340</CR>
@@ -8845,7 +8845,7 @@
 </resource>
 <resource>
 <name>Quadesateleic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Colat Iron</resource_class>
 <stats>
 <CR>383</CR>
@@ -8863,7 +8863,7 @@
 </resource>
 <resource>
 <name>Ourcia</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Colat Iron</resource_class>
 <stats>
 <CR>412</CR>
@@ -8881,7 +8881,7 @@
 </resource>
 <resource>
 <name>Metosis</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Colat Iron</resource_class>
 <stats>
 <CR>437</CR>
@@ -8899,7 +8899,7 @@
 </resource>
 <resource>
 <name>Iraibok</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Doonium Iron</resource_class>
 <stats>
 <CR>570</CR>
@@ -8918,7 +8918,7 @@
 </resource>
 <resource>
 <name>Enita</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Doonium Iron</resource_class>
 <stats>
 <CR>601</CR>
@@ -8938,7 +8938,7 @@
 </resource>
 <resource>
 <name>Tiwoaite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Doonium Iron</resource_class>
 <stats>
 <CR>675</CR>
@@ -8957,7 +8957,7 @@
 </resource>
 <resource>
 <name>Durosaresuine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kammris Iron</resource_class>
 <stats>
 <CR>796</CR>
@@ -8977,7 +8977,7 @@
 </resource>
 <resource>
 <name>Triic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kammris Iron</resource_class>
 <stats>
 <CR>726</CR>
@@ -8995,7 +8995,7 @@
 </resource>
 <resource>
 <name>Amolit</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Iron</resource_class>
 <stats>
 <CR>756</CR>
@@ -9013,7 +9013,7 @@
 </resource>
 <resource>
 <name>Ydau</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rhodium Steel</resource_class>
 <stats>
 <CR>49</CR>
@@ -9038,7 +9038,7 @@
 </resource>
 <resource>
 <name>Duritodusis</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Perovskitic Aluminum</resource_class>
 <stats>
 <CR>562</CR>
@@ -9056,7 +9056,7 @@
 </resource>
 <resource>
 <name>Tritrimetaofosis</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Aluminum</resource_class>
 <stats>
 <CR>785</CR>
@@ -9074,7 +9074,7 @@
 </resource>
 <resource>
 <name>Quadegiite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Titanium Aluminum</resource_class>
 <stats>
 <CR>7</CR>
@@ -9099,7 +9099,7 @@
 </resource>
 <resource>
 <name>Ditetralodegeneine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>aluminum_agrinium</resource_class>
 <stats>
 <CR>208</CR>
@@ -9124,7 +9124,7 @@
 </resource>
 <resource>
 <name>Dureheomide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Chromium Aluminum</resource_class>
 <stats>
 <CR>300</CR>
@@ -9149,7 +9149,7 @@
 </resource>
 <resource>
 <name>Awikiine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Duralumin Aluminum</resource_class>
 <stats>
 <CR>425</CR>
@@ -9174,7 +9174,7 @@
 </resource>
 <resource>
 <name>Saci</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Link-Steel Aluminum</resource_class>
 <stats>
 <CR>676</CR>
@@ -9199,7 +9199,7 @@
 </resource>
 <resource>
 <name>Ipiba</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Phrik Aluminum</resource_class>
 <stats>
 <CR>691</CR>
@@ -9224,7 +9224,7 @@
 </resource>
 <resource>
 <name>Ekomatau</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Conductive Borcarbitic Copper</resource_class>
 <stats>
 <CR>830</CR>
@@ -9242,7 +9242,7 @@
 </resource>
 <resource>
 <name>Triris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Copper</resource_class>
 <stats>
 <CR>796</CR>
@@ -9260,7 +9260,7 @@
 </resource>
 <resource>
 <name>Negatide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Thallium Copper</resource_class>
 <stats>
 <CR>117</CR>
@@ -9285,7 +9285,7 @@
 </resource>
 <resource>
 <name>Amo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Chromite Carbonate Ore</resource_class>
 <stats>
 <CR>545</CR>
@@ -9309,7 +9309,7 @@
 </resource>
 <resource>
 <name>Wedav</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Type 1 Crystal Amorphous Gem</resource_class>
 <stats>
 <ER>771</ER>
@@ -9327,7 +9327,7 @@
 </resource>
 <resource>
 <name>Diboism</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Type 2 Crystal Amorphous Gem</resource_class>
 <stats>
 <ER>766</ER>
@@ -9345,7 +9345,7 @@
 </resource>
 <resource>
 <name>Diramicism</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Bospridium Amorphous Gemstone</resource_class>
 <stats>
 <ER>70</ER>
@@ -9370,7 +9370,7 @@
 </resource>
 <resource>
 <name>Quadneohigeite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Baradium Amorphous Gemstone</resource_class>
 <stats>
 <ER>65</ER>
@@ -9395,7 +9395,7 @@
 </resource>
 <resource>
 <name>Caso</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Regvis Amorphous Gemstone</resource_class>
 <stats>
 <ER>189</ER>
@@ -9420,7 +9420,7 @@
 </resource>
 <resource>
 <name>Awerpa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Regvis Amorphous Gemstone</resource_class>
 <stats>
 <ER>192</ER>
@@ -9445,7 +9445,7 @@
 </resource>
 <resource>
 <name>Ogwer</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Plexite Amorphous Gemstone</resource_class>
 <stats>
 <ER>318</ER>
@@ -9470,7 +9470,7 @@
 </resource>
 <resource>
 <name>Oedig</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rudic Amorphous Gemstone</resource_class>
 <stats>
 <ER>299</ER>
@@ -9495,7 +9495,7 @@
 </resource>
 <resource>
 <name>Fewogan</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Ryll Amorphous Gemstone</resource_class>
 <stats>
 <ER>382</ER>
@@ -9520,7 +9520,7 @@
 </resource>
 <resource>
 <name>Tipe</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Sedrellium Amorphous Gemstone</resource_class>
 <stats>
 <ER>501</ER>
@@ -9545,7 +9545,7 @@
 </resource>
 <resource>
 <name>Trineomebaium</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Stygium Amorphous Gemstone</resource_class>
 <stats>
 <ER>560</ER>
@@ -9570,7 +9570,7 @@
 </resource>
 <resource>
 <name>Pigifa</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Type 1 Crystal Amorphous Gem</resource_class>
 <stats>
 <ER>797</ER>
@@ -9588,7 +9588,7 @@
 </resource>
 <resource>
 <name>Omniketovaofofris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Type 1 Crystalline Gem</resource_class>
 <stats>
 <ER>934</ER>
@@ -9606,7 +9606,7 @@
 </resource>
 <resource>
 <name>Odaian</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Type 2 Crystalline Gem</resource_class>
 <stats>
 <ER>973</ER>
@@ -9624,7 +9624,7 @@
 </resource>
 <resource>
 <name>Carbeinef</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Byrothsis Crystalline Gemstone</resource_class>
 <stats>
 <ER>523</ER>
@@ -9649,7 +9649,7 @@
 </resource>
 <resource>
 <name>Akacor</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Gallinorian Rainbow Gem Crystalline Gemstone</resource_class>
 <stats>
 <ER>566</ER>
@@ -9674,7 +9674,7 @@
 </resource>
 <resource>
 <name>Quadtetrafoadaosenide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Green Diamond Crystalline Gemstone</resource_class>
 <stats>
 <ER>654</ER>
@@ -9699,7 +9699,7 @@
 </resource>
 <resource>
 <name>Oabevi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Sormahil Fire Gem Crystalline Gemstone</resource_class>
 <stats>
 <ER>808</ER>
@@ -9724,7 +9724,7 @@
 </resource>
 <resource>
 <name>Ifof</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Sormahil Fire Gem Crystalline Gemstone</resource_class>
 <stats>
 <ER>884</ER>
@@ -9749,7 +9749,7 @@
 </resource>
 <resource>
 <name>Citoo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Laboi Mineral Crystal Crystalline Gemstone</resource_class>
 <stats>
 <ER>868</ER>
@@ -9774,7 +9774,7 @@
 </resource>
 <resource>
 <name>Omnitoboesis</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Vertex Crystalline Gemstone</resource_class>
 <stats>
 <ER>929</ER>
@@ -9799,7 +9799,7 @@
 </resource>
 <resource>
 <name>Mnoile</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Type 2 Crystalline Gem</resource_class>
 <stats>
 <ER>921</ER>
@@ -9817,7 +9817,7 @@
 </resource>
 <resource>
 <name>Harinec</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Unknown Gem Type</resource_class>
 <stats>
 <ER>701</ER>
@@ -9836,7 +9836,7 @@
 </resource>
 <resource>
 <name>Neebekrab</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Unstable Organometallic Reactive Gas</resource_class>
 <stats>
 <DR>661</DR>
@@ -9848,7 +9848,7 @@
 </resource>
 <resource>
 <name>Eepiwee</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Reactive Gas</resource_class>
 <stats>
 <DR>837</DR>
@@ -9860,7 +9860,7 @@
 </resource>
 <resource>
 <name>Eemego</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Eleton Reactive Gas</resource_class>
 <stats>
 <DR>384</DR>
@@ -9879,7 +9879,7 @@
 </resource>
 <resource>
 <name>Ucao</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Irolunn Reactive Gas</resource_class>
 <stats>
 <DR>390</DR>
@@ -9898,7 +9898,7 @@
 </resource>
 <resource>
 <name>Aboospook</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Irolunn Reactive Gas</resource_class>
 <stats>
 <DR>106</DR>
@@ -9917,7 +9917,7 @@
 </resource>
 <resource>
 <name>Methaulaene</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Methane Reactive Gas</resource_class>
 <stats>
 <DR>545</DR>
@@ -9936,7 +9936,7 @@
 </resource>
 <resource>
 <name>Octarcoyl</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Orveth Reactive Gas</resource_class>
 <stats>
 <DR>446</DR>
@@ -9955,7 +9955,7 @@
 </resource>
 <resource>
 <name>Eeboo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tolium Reactive Gas</resource_class>
 <stats>
 <DR>804</DR>
@@ -9974,7 +9974,7 @@
 </resource>
 <resource>
 <name>Decaweyl</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mustafarian Reactive Gas</resource_class>
 <stats>
 <DR>802</DR>
@@ -9986,7 +9986,7 @@
 </resource>
 <resource>
 <name>Iwika</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Unknown Reactive Gas</resource_class>
 <stats>
 <DR>577</DR>
@@ -10000,7 +10000,7 @@
 </resource>
 <resource>
 <name>Ihi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Hydron-3 Inert Gas</resource_class>
 <stats>
 <DR>74</DR>
@@ -10019,7 +10019,7 @@
 </resource>
 <resource>
 <name>Nohia</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Malium Inert Gas</resource_class>
 <stats>
 <DR>101</DR>
@@ -10038,7 +10038,7 @@
 </resource>
 <resource>
 <name>Durinoicheine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corthel Inert Gas</resource_class>
 <stats>
 <DR>198</DR>
@@ -10057,7 +10057,7 @@
 </resource>
 <resource>
 <name>Dibewi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Culsion Inert Gas</resource_class>
 <stats>
 <DR>231</DR>
@@ -10076,7 +10076,7 @@
 </resource>
 <resource>
 <name>Edosoeni</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dioxis Inert Gas</resource_class>
 <stats>
 <DR>292</DR>
@@ -10095,7 +10095,7 @@
 </resource>
 <resource>
 <name>Omnifrefob</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dioxis Inert Gas</resource_class>
 <stats>
 <DR>337</DR>
@@ -10114,7 +10114,7 @@
 </resource>
 <resource>
 <name>Omniian</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Hurlothrombic Inert Gas</resource_class>
 <stats>
 <DR>386</DR>
@@ -10133,7 +10133,7 @@
 </resource>
 <resource>
 <name>Kewona</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Hurlothrombic Inert Gas</resource_class>
 <stats>
 <DR>405</DR>
@@ -10152,7 +10152,7 @@
 </resource>
 <resource>
 <name>Wiola</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kaylon Inert Gas</resource_class>
 <stats>
 <DR>505</DR>
@@ -10171,7 +10171,7 @@
 </resource>
 <resource>
 <name>Quadowelmillris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kaylon Inert Gas</resource_class>
 <stats>
 <DR>458</DR>
@@ -10190,7 +10190,7 @@
 </resource>
 <resource>
 <name>Omnigichadris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Methanagen Inert Gas</resource_class>
 <stats>
 <DR>568</DR>
@@ -10209,7 +10209,7 @@
 </resource>
 <resource>
 <name>Ahed</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Mirth Inert Gas</resource_class>
 <stats>
 <DR>661</DR>
@@ -10228,7 +10228,7 @@
 </resource>
 <resource>
 <name>Norew</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rethin Inert Gas</resource_class>
 <stats>
 <DR>769</DR>
@@ -10247,7 +10247,7 @@
 </resource>
 <resource>
 <name>Dineotimilvite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Unknown Inert Gas</resource_class>
 <stats>
 <DR>402</DR>
@@ -10260,7 +10260,7 @@
 </resource>
 <resource>
 <name>Oweiam</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>247</PE>
@@ -10272,7 +10272,7 @@
 </resource>
 <resource>
 <name>Tritetranocheium</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>107</PE>
@@ -10284,7 +10284,7 @@
 </resource>
 <resource>
 <name>Aurchi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Tidal Renewable Energy</resource_class>
 <stats>
 <PE>390</PE>
@@ -10296,7 +10296,7 @@
 </resource>
 <resource>
 <name>Ecear</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>29</PE>
@@ -10308,7 +10308,7 @@
 </resource>
 <resource>
 <name>Xodekt</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>283</PE>
@@ -10320,7 +10320,7 @@
 </resource>
 <resource>
 <name>Quadefome</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>56</PE>
@@ -10332,7 +10332,7 @@
 </resource>
 <resource>
 <name>Triism</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Tidal Renewable Energy</resource_class>
 <stats>
 <PE>268</PE>
@@ -10344,7 +10344,7 @@
 </resource>
 <resource>
 <name>Inarkocism</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>372</PE>
@@ -10356,7 +10356,7 @@
 </resource>
 <resource>
 <name>Omnimatiglebo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>194</PE>
@@ -10368,7 +10368,7 @@
 </resource>
 <resource>
 <name>Duratchaocak</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>176</PE>
@@ -10380,7 +10380,7 @@
 </resource>
 <resource>
 <name>Bihapyide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>327</PE>
@@ -10392,7 +10392,7 @@
 </resource>
 <resource>
 <name>Tritadott</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>455</PE>
@@ -10404,7 +10404,7 @@
 </resource>
 <resource>
 <name>Durdiseapattic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>342</PE>
@@ -10416,7 +10416,7 @@
 </resource>
 <resource>
 <name>Omnifoafologweite</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>260</PE>
@@ -10428,7 +10428,7 @@
 </resource>
 <resource>
 <name>Eewros</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>181</PE>
@@ -10440,7 +10440,7 @@
 </resource>
 <resource>
 <name>Eufauste</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>326</PE>
@@ -10452,7 +10452,7 @@
 </resource>
 <resource>
 <name>Irkish</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>139</PE>
@@ -10464,7 +10464,7 @@
 </resource>
 <resource>
 <name>Opabide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>466</PE>
@@ -10476,7 +10476,7 @@
 </resource>
 <resource>
 <name>Oavi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>464</PE>
@@ -10488,7 +10488,7 @@
 </resource>
 <resource>
 <name>Ofomid</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>421</PE>
@@ -10500,7 +10500,7 @@
 </resource>
 <resource>
 <name>Durneonigakian</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>315</PE>
@@ -10512,7 +10512,7 @@
 </resource>
 <resource>
 <name>Dibahoide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>151</PE>
@@ -10524,7 +10524,7 @@
 </resource>
 <resource>
 <name>Velo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>419</PE>
@@ -10536,7 +10536,7 @@
 </resource>
 <resource>
 <name>Isriofris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>410</PE>
@@ -10548,7 +10548,7 @@
 </resource>
 <resource>
 <name>Alle</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>733</PE>
@@ -10560,7 +10560,7 @@
 </resource>
 <resource>
 <name>Quadastowaris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>648</PE>
@@ -10572,7 +10572,7 @@
 </resource>
 <resource>
 <name>Carbisoboimothiide</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>995</PE>
@@ -10584,7 +10584,7 @@
 </resource>
 <resource>
 <name>Eseussiro</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>297</PE>
@@ -10596,7 +10596,7 @@
 </resource>
 <resource>
 <name>Durneosicomium</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>500</PE>
@@ -10608,7 +10608,7 @@
 </resource>
 <resource>
 <name>Apraopofaoiam</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>461</PE>
@@ -10620,7 +10620,7 @@
 </resource>
 <resource>
 <name>Omnineowistoignalasis</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>517</PE>
@@ -10632,7 +10632,7 @@
 </resource>
 <resource>
 <name>Gata</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>781</PE>
@@ -10644,7 +10644,7 @@
 </resource>
 <resource>
 <name>Siceris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>439</PE>
@@ -10656,7 +10656,7 @@
 </resource>
 <resource>
 <name>Quadafivakk</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>81</PE>
@@ -10668,7 +10668,7 @@
 </resource>
 <resource>
 <name>Ovaf</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>543</PE>
@@ -10680,7 +10680,7 @@
 </resource>
 <resource>
 <name>Quadegralo</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Wind Renewable Energy</resource_class>
 <stats>
 <PE>95</PE>
@@ -10692,7 +10692,7 @@
 </resource>
 <resource>
 <name>Tokrad</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Wind Renewable Energy</resource_class>
 <stats>
 <PE>107</PE>
@@ -10704,7 +10704,7 @@
 </resource>
 <resource>
 <name>Durinolcoris</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Wind Renewable Energy</resource_class>
 <stats>
 <PE>213</PE>
@@ -10716,7 +10716,7 @@
 </resource>
 <resource>
 <name>Carbisoian</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Wind Renewable Energy</resource_class>
 <stats>
 <PE>298</PE>
@@ -10728,7 +10728,7 @@
 </resource>
 <resource>
 <name>Tiascauko</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Wind Renewable Energy</resource_class>
 <stats>
 <PE>227</PE>
@@ -10740,7 +10740,7 @@
 </resource>
 <resource>
 <name>Ecoire</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Wind Renewable Energy</resource_class>
 <stats>
 <PE>248</PE>
@@ -10752,7 +10752,7 @@
 </resource>
 <resource>
 <name>Slara</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Wind Renewable Energy</resource_class>
 <stats>
 <PE>236</PE>
@@ -10764,7 +10764,7 @@
 </resource>
 <resource>
 <name>Astiare</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Wind Renewable Energy</resource_class>
 <stats>
 <PE>100</PE>
@@ -10776,7 +10776,7 @@
 </resource>
 <resource>
 <name>Ajidi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Wind Renewable Energy</resource_class>
 <stats>
 <PE>206</PE>
@@ -10788,7 +10788,7 @@
 </resource>
 <resource>
 <name>Tritetrasvikeeine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Wind Renewable Energy</resource_class>
 <stats>
 <PE>391</PE>
@@ -10800,7 +10800,7 @@
 </resource>
 <resource>
 <name>Duracoufetriine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Wind Renewable Energy</resource_class>
 <stats>
 <PE>278</PE>
@@ -10812,7 +10812,7 @@
 </resource>
 <resource>
 <name>Pedag</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Corellian Solar Renewable Energy</resource_class>
 <stats>
 <PE>299</PE>
@@ -10824,7 +10824,7 @@
 </resource>
 <resource>
 <name>Oloescapethian</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dantooine Solar Renewable Energy</resource_class>
 <stats>
 <PE>421</PE>
@@ -10836,7 +10836,7 @@
 </resource>
 <resource>
 <name>Bape</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Dathomirian Solar Renewable Energy</resource_class>
 <stats>
 <PE>481</PE>
@@ -10848,7 +10848,7 @@
 </resource>
 <resource>
 <name>Durolidhot</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Solar Renewable Energy</resource_class>
 <stats>
 <PE>585</PE>
@@ -10860,7 +10860,7 @@
 </resource>
 <resource>
 <name>Omnildafogiw</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Solar Renewable Energy</resource_class>
 <stats>
 <PE>320</PE>
@@ -10872,7 +10872,7 @@
 </resource>
 <resource>
 <name>Olyc</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Solar Renewable Energy</resource_class>
 <stats>
 <PE>319</PE>
@@ -10884,7 +10884,7 @@
 </resource>
 <resource>
 <name>Niwi</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Solar Renewable Energy</resource_class>
 <stats>
 <PE>458</PE>
@@ -10896,7 +10896,7 @@
 </resource>
 <resource>
 <name>Ebato</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Talusian Solar Renewable Energy</resource_class>
 <stats>
 <PE>475</PE>
@@ -10908,7 +10908,7 @@
 </resource>
 <resource>
 <name>Duredemmooweium</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Solar Renewable Energy</resource_class>
 <stats>
 <PE>374</PE>
@@ -10920,7 +10920,7 @@
 </resource>
 <resource>
 <name>Carbeonane</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Yavinian Solar Renewable Energy</resource_class>
 <stats>
 <PE>527</PE>
@@ -10932,7 +10932,7 @@
 </resource>
 <resource>
 <name>Durexid</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Solar Renewable Energy</resource_class>
 <stats>
 <PE>410</PE>
@@ -10944,7 +10944,7 @@
 </resource>
 <resource>
 <name>Quaddiglovvoovian</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Lokian Tidal Renewable Energy</resource_class>
 <stats>
 <PE>106</PE>
@@ -10956,7 +10956,7 @@
 </resource>
 <resource>
 <name>Azed</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Tidal Renewable Energy</resource_class>
 <stats>
 <PE>285</PE>
@@ -10968,7 +10968,7 @@
 </resource>
 <resource>
 <name>Dineophifaine</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Endorian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>44</PE>
@@ -10980,7 +10980,7 @@
 </resource>
 <resource>
 <name>Oghei</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Rori Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>413</PE>
@@ -10992,7 +10992,7 @@
 </resource>
 <resource>
 <name>Vomaiate</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Tatooinian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>22</PE>
@@ -11004,7 +11004,7 @@
 </resource>
 <resource>
 <name>Olef</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Kashyyykian Hydron-3 Renewable Energy</resource_class>
 <stats>
 <PE>149</PE>
@@ -11016,7 +11016,7 @@
 </resource>
 <resource>
 <name>Amaeic</name>
-<available_date>Tue, 10 Aug 2021 18:24:18</available_date>
+<available_date>Tue, 10 Aug 2021 19:24:19</available_date>
 <resource_class>Nabooian Geothermal Renewable Energy</resource_class>
 <stats>
 <PE>352</PE>
